@@ -16,7 +16,7 @@
 
     <text x="36" y="53"
           fill="#C9D1D9" font-size="20">
-      Olá, eu sou
+      Olá, eu sou o
     </text>
 
     <text x="34" y="111"
@@ -32,7 +32,7 @@
 
     <text x="36" y="174"
           fill="#A8B5C0" font-size="16">
-      Graduando em Engenharia de Software
+      Cursando Engenharia de Software
     </text>
 
     <rect x="36" y="203"
@@ -57,11 +57,11 @@
     </text>
 
     <text x="555" y="112">
-      frontend: <tspan fill="#8DDB8C">'JavaScript'</tspan>,
+      frontend: <tspan fill="#8DDB8C">'Html, Css, JavaScript'</tspan>,
     </text>
 
     <text x="555" y="136">
-      backend: <tspan fill="#8DDB8C">'Python/Django'</tspan>,
+      backend: <tspan fill="#8DDB8C">'Python'</tspan>,
     </text>
 
     <text x="555" y="160">
