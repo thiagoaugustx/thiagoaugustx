@@ -71,7 +71,7 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
   <tr>
     <td width="38%" valign="middle" align="center">
       <a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/"><img
-        src="./assets/projects/marinelli.png"
+        src="./projects/marinelli.png"
         alt="Preview do site Eletrotécnica Marinelli"
         width="100%"
       /></a>
@@ -102,7 +102,7 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
   <tr>
     <td width="38%" valign="middle" align="center">
       <a href="https://github.com/thiagoaugustx/Django-Cafeteria"><img
-        src="./assets/projects/django-cafeteria.png"
+        src="./projects/django-cafeteria.png"
         alt="Preview do projeto Django Cafeteria"
         width="100%"
       /></a>
@@ -130,7 +130,7 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
   <tr>
     <td width="38%" valign="middle" align="center">
       <a href="https://github.com/thiagoaugustx/construir-com-aco"><img
-        src="./assets/projects/ferrobran.png"
+        src="./projects/ferrobran.png"
         alt="Preview da landing page Construir com Aço"
         width="100%"
       /></a>
@@ -151,7 +151,7 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
   <tr>
     <td width="38%" valign="middle" align="center">
       <a href="https://github.com/thiagoaugustx/Canela-Engenharia-Eletrica"><img
-        src="./assets/projects/canela.png"
+        src="./projects/canela.png"
         alt="Preview do site Canela Engenharia Elétrica"
         width="100%"
       /></a>
@@ -179,7 +179,7 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
   <tr>
     <td width="15%" align="center" valign="middle">
       <img
-        src="./assets/education/uninter.svg"
+        src="./education/uninter.svg"
         alt="Logo da UNINTER"
         width="65"
       />
@@ -194,7 +194,7 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
   <tr>
     <td width="15%" align="center" valign="middle">
       <img
-        src="./assets/education/senai.svg"
+        src="./education/senai.svg"
         alt="Logo do SENAI"
         width="65"
       />
@@ -209,7 +209,7 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
   <tr>
     <td width="15%" align="center" valign="middle">
       <img
-        src="./assets/education/senac.svg"
+        src="./education/senac.svg"
         alt="Logo do SENAC"
         width="65"
       />
