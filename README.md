@@ -176,77 +176,47 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 <table>
   <tr>
     <td width="180" align="center" valign="middle">
-      <img
-        src="./education/uninter.svg"
-        width="160"
-        height="100"
-        alt="UNINTER"
-      />
+      <img src="./education/uninter.svg" width="160" height="100" alt="UNINTER"/>
     </td>
-
     <td width="460" align="center" valign="middle">
-      <strong>Engenharia de Software</strong>
-      <br><br>
-      Centro Universitário Internacional — UNINTER
-      <br>
+      <strong>Engenharia de Software</strong><br><br>
+      Centro Universitário Internacional — UNINTER<br>
       <sub>Bacharelado</sub>
     </td>
-
     <td width="180" align="center" valign="middle">
-      <strong>2024 – Atual</strong>
-      <br>
+      <strong>2024 – Atual</strong><br>
       <sub>Em andamento</sub>
     </td>
   </tr>
-
   <tr>
     <td width="180" align="center" valign="middle">
-      <img
-        src="./education/senai.svg"
-        width="160"
-        height="100"
-        alt="SENAI"
-      />
+      <img src="./education/senai.svg" width="160" height="100" alt="SENAI"/>
     </td>
-
     <td width="460" align="center" valign="middle">
-      <strong>Programador Front-end</strong>
-      <br><br>
-      Firjan SENAI — Niterói
-      <br>
+      <strong>Programador Front-end</strong><br><br>
+      Firjan SENAI — Niterói<br>
       <sub>Formação profissional</sub>
     </td>
-
     <td width="180" align="center" valign="middle">
-      <strong>2024</strong>
-      <br>
+      <strong>2024</strong><br>
       <sub>Concluído</sub>
     </td>
   </tr>
-
   <tr>
     <td width="180" align="center" valign="middle">
-      <img
-        src="./education/senac.svg"
-        width="160"
-        height="100"
-        alt="SENAC"
-      />
+      <img src="./education/senac.svg" width="160" height="100" alt="SENAC"/>
     </td>
-
     <td width="460" align="center" valign="middle">
-      <strong>Programação em Python</strong>
-      <br><br>
-      SENAC
-      <br>
+      <strong>Programação em Python</strong><br><br>
+      SENAC<br>
       <sub>Formação profissional</sub>
     </td>
-
     <td width="180" align="center" valign="middle">
       <strong>2026</strong>
     </td>
   </tr>
 </table>
+
 <!-- GITHUB STATS -->
 
 ## GitHub Stats
