@@ -173,14 +173,20 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 
 ## Formação
 
-<table>
+<table width="100%">
   <tr>
     <td width="160" align="center" valign="middle">
-      <img
-        src="./education/uninter.svg"
-        width="120"
-        alt="UNINTER"
-      />
+      <table cellpadding="12" cellspacing="0">
+        <tr>
+          <td align="center" valign="middle" bgcolor="#FFFFFF">
+            <img
+              src="./assets/education/uninter.svg"
+              width="110"
+              alt="UNINTER"
+            />
+          </td>
+        </tr>
+      </table>
     </td>
     <td width="460" valign="middle">
       <h3>Engenharia de Software</h3>
@@ -197,11 +203,17 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 
   <tr>
     <td width="160" align="center" valign="middle">
-      <img
-        src="./education/senai.svg"
-        width="120"
-        alt="SENAI"
-      />
+      <table cellpadding="12" cellspacing="0">
+        <tr>
+          <td align="center" valign="middle" bgcolor="#FFFFFF">
+            <img
+              src="./assets/education/senai.svg"
+              width="110"
+              alt="SENAI"
+            />
+          </td>
+        </tr>
+      </table>
     </td>
     <td width="460" valign="middle">
       <h3>Programador Front-end</h3>
@@ -218,11 +230,17 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 
   <tr>
     <td width="160" align="center" valign="middle">
-      <img
-        src="./education/senac.svg"
-        width="120"
-        alt="SENAC"
-      />
+      <table cellpadding="12" cellspacing="0">
+        <tr>
+          <td align="center" valign="middle" bgcolor="#FFFFFF">
+            <img
+              src="./assets/education/senac.svg"
+              width="110"
+              alt="SENAC"
+            />
+          </td>
+        </tr>
+      </table>
     </td>
     <td width="460" valign="middle">
       <h3>Programação em Python</h3>
@@ -235,7 +253,6 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
     </td>
   </tr>
 </table>
-
 
 <!-- GITHUB STATS -->
 
