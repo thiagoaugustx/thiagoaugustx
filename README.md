@@ -180,7 +180,7 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
         <tr>
           <td align="center" valign="middle" bgcolor="#FFFFFF">
             <img
-              src="./assets/education/uninter.svg"
+              src="./education/uninter.svg"
               width="110"
               alt="UNINTER"
             />
@@ -207,7 +207,7 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
         <tr>
           <td align="center" valign="middle" bgcolor="#FFFFFF">
             <img
-              src="./assets/education/senai.svg"
+              src="./education/senai.svg"
               width="110"
               alt="SENAI"
             />
@@ -234,7 +234,7 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
         <tr>
           <td align="center" valign="middle" bgcolor="#FFFFFF">
             <img
-              src="./assets/education/senac.svg"
+              src="./education/senac.svg"
               width="110"
               alt="SENAC"
             />
