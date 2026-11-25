@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="151" height="32" viewBox="0 0 151 32" role="img" aria-labelledby="title">
+  <title id="title">Em andamento</title>
+  <defs><linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#219BD8"/><stop offset="100%" stop-color="#2EC987"/></linearGradient></defs>
+  <rect x="1" y="1" width="149" height="30" rx="15" fill="#101820" stroke="url(#border)" stroke-width="1"/>
+  <g transform="translate(10 5) scale(.9)" color="#2EC987"><circle cx="12" cy="12" r="6" fill="#2EC987"/></g>
+  <text x="39" y="21"  font-family="Arial, sans-serif" font-size="13" font-weight="600" fill="#E6EDF3">Em andamento</text>
+</svg>

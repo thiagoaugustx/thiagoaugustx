@@ -172,44 +172,44 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 <div align="center">
 <table width="960">
   <tr>
-    <td width="160" align="center" valign="middle">
-      <img src="./education/uninter.svg" width="120" alt="UNINTER"/>
+    <td width="160" height="140" align="center" valign="middle">
+      <img src="./education/uninter.svg" width="140" height="100" alt="UNINTER"/>
     </td>
     <td width="560" align="left" valign="middle">
-      <strong>Engenharia de Software</strong><br><br>
-      Centro Universitário Internacional — UNINTER<br>
-      <sub>Bacharelado</sub>
+      <strong>Engenharia de Software</strong><br>
+      Centro Universitário Internacional — UNINTER<br><br>
+      <img src="./education/bacharelado.svg" height="32" alt="Bacharelado"/>
     </td>
-    <td width="240" align="center" valign="middle">
-      <strong>2024 – Atual</strong><br>
-      <sub>Em andamento</sub>
+    <td width="240" align="left" valign="middle">
+      <img src="./education/2024-atual.svg" height="32" alt="2024 – Atual"/><br><br>
+      <img src="./education/em-andamento.svg" height="32" alt="Em andamento"/>
     </td>
   </tr>
   <tr>
-    <td width="160" align="center" valign="middle">
-      <img src="./education/senai.svg" width="120" alt="SENAI"/>
+    <td width="160" height="140" align="center" valign="middle">
+      <img src="./education/senai.svg" width="140" height="100" alt="SENAI"/>
     </td>
     <td width="560" align="left" valign="middle">
-      <strong>Programador Front-end</strong><br><br>
-      Firjan SENAI — Niterói<br>
-      <sub>Formação profissional</sub>
+      <strong>Programador Front-end</strong><br>
+      Firjan SENAI — Niterói<br><br>
+      <img src="./education/formacao-profissional.svg" height="32" alt="Formação profissional"/>
     </td>
-    <td width="240" align="center" valign="middle">
-      <strong>2024</strong><br>
-      <sub>Concluído</sub>
+    <td width="240" align="left" valign="middle">
+      <img src="./education/2024.svg" height="32" alt="2024"/><br><br>
+      <img src="./education/concluido.svg" height="32" alt="Concluído"/>
     </td>
   </tr>
   <tr>
-    <td width="160" align="center" valign="middle">
-      <img src="./education/senac.svg" width="120" alt="SENAC"/>
+    <td width="160" height="140" align="center" valign="middle">
+      <img src="./education/senac.svg" width="140" height="100" alt="SENAC"/>
     </td>
     <td width="560" align="left" valign="middle">
-      <strong>Programação em Python</strong><br><br>
-      SENAC<br>
-      <sub>Formação profissional</sub>
+      <strong>Programação em Python</strong><br>
+      SENAC<br><br>
+      <img src="./education/formacao-profissional.svg" height="32" alt="Formação profissional"/>
     </td>
-    <td width="240" align="center" valign="middle">
-      <strong>2026</strong>
+    <td width="240" align="left" valign="middle">
+      <img src="./education/2026.svg" height="32" alt="2026"/>
     </td>
   </tr>
 </table>
