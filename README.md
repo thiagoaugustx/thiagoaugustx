@@ -171,53 +171,67 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 </table>
 
 
-<!-- FORMAÇÃO -->
-
 ## Formação
 
-<table width="100%">
+<table>
   <tr>
-    <td width="15%" align="center" valign="middle">
+    <td width="160" align="center" valign="middle">
       <img
-        src="./education/uninter.svg"
-        alt="Logo da UNINTER"
-        width="65"
+        src="./assets/education/uninter.svg"
+        width="120"
+        alt="UNINTER"
       />
     </td>
-    <td width="85%" valign="middle">
-      <strong>Engenharia de Software</strong><br>
-      Centro Universitário Internacional — UNINTER<br>
-      <sub>2024 – Atualmente | Bacharelado</sub>
+    <td width="460" valign="middle">
+      <h3>Engenharia de Software</h3>
+      Centro Universitário Internacional — UNINTER
+      <br>
+      <sub>Bacharelado</sub>
+    </td>
+    <td width="180" align="center" valign="middle">
+      <strong>2024 – Atual</strong>
+      <br>
+      <sub>Em andamento</sub>
     </td>
   </tr>
 
   <tr>
-    <td width="15%" align="center" valign="middle">
+    <td width="160" align="center" valign="middle">
       <img
-        src="./education/senai.svg"
-        alt="Logo do SENAI"
-        width="65"
+        src="./assets/education/senai.svg"
+        width="120"
+        alt="SENAI"
       />
     </td>
-    <td width="85%" valign="middle">
-      <strong>Programador Front-end</strong><br>
-      Firjan SENAI — Niterói<br>
-      <sub>2024 | Formação profissional</sub>
+    <td width="460" valign="middle">
+      <h3>Programador Front-end</h3>
+      Firjan SENAI — Niterói
+      <br>
+      <sub>Formação profissional</sub>
+    </td>
+    <td width="180" align="center" valign="middle">
+      <strong>2024</strong>
+      <br>
+      <sub>Concluído</sub>
     </td>
   </tr>
 
   <tr>
-    <td width="15%" align="center" valign="middle">
+    <td width="160" align="center" valign="middle">
       <img
-        src="./education/senac.svg"
-        alt="Logo do SENAC"
-        width="65"
+        src="./assets/education/senac.svg"
+        width="120"
+        alt="SENAC"
       />
     </td>
-    <td width="85%" valign="middle">
-      <strong>Programação em Python</strong><br>
-      SENAC<br>
-      <sub>2026 | Formação profissional</sub>
+    <td width="460" valign="middle">
+      <h3>Programação em Python</h3>
+      SENAC
+      <br>
+      <sub>Formação profissional</sub>
+    </td>
+    <td width="180" align="center" valign="middle">
+      <strong>2026</strong>
     </td>
   </tr>
 </table>
