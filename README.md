@@ -173,27 +173,25 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 
 ## Formação
 
-<table width="100%">
+<table>
   <tr>
-    <td width="160" align="center" valign="middle">
-      <table cellpadding="12" cellspacing="0">
-        <tr>
-          <td align="center" valign="middle" bgcolor="#FFFFFF">
-            <img
-              src="./education/uninter.svg"
-              width="110"
-              alt="UNINTER"
-            />
-          </td>
-        </tr>
-      </table>
+    <td width="180" align="center" valign="middle">
+      <img
+        src="./education/uninter.svg"
+        width="160"
+        height="100"
+        alt="UNINTER"
+      />
     </td>
-    <td width="460" valign="middle">
-      <h3>Engenharia de Software</h3>
+
+    <td width="460" align="center" valign="middle">
+      <strong>Engenharia de Software</strong>
+      <br><br>
       Centro Universitário Internacional — UNINTER
       <br>
       <sub>Bacharelado</sub>
     </td>
+
     <td width="180" align="center" valign="middle">
       <strong>2024 – Atual</strong>
       <br>
@@ -202,25 +200,23 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
   </tr>
 
   <tr>
-    <td width="160" align="center" valign="middle">
-      <table cellpadding="12" cellspacing="0">
-        <tr>
-          <td align="center" valign="middle" bgcolor="#FFFFFF">
-            <img
-              src="./education/senai.svg"
-              width="110"
-              alt="SENAI"
-            />
-          </td>
-        </tr>
-      </table>
+    <td width="180" align="center" valign="middle">
+      <img
+        src="./education/senai.svg"
+        width="160"
+        height="100"
+        alt="SENAI"
+      />
     </td>
-    <td width="460" valign="middle">
-      <h3>Programador Front-end</h3>
+
+    <td width="460" align="center" valign="middle">
+      <strong>Programador Front-end</strong>
+      <br><br>
       Firjan SENAI — Niterói
       <br>
       <sub>Formação profissional</sub>
     </td>
+
     <td width="180" align="center" valign="middle">
       <strong>2024</strong>
       <br>
@@ -229,31 +225,28 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
   </tr>
 
   <tr>
-    <td width="160" align="center" valign="middle">
-      <table cellpadding="12" cellspacing="0">
-        <tr>
-          <td align="center" valign="middle" bgcolor="#FFFFFF">
-            <img
-              src="./education/senac.svg"
-              width="110"
-              alt="SENAC"
-            />
-          </td>
-        </tr>
-      </table>
+    <td width="180" align="center" valign="middle">
+      <img
+        src="./education/senac.svg"
+        width="160"
+        height="100"
+        alt="SENAC"
+      />
     </td>
-    <td width="460" valign="middle">
-      <h3>Programação em Python</h3>
+
+    <td width="460" align="center" valign="middle">
+      <strong>Programação em Python</strong>
+      <br><br>
       SENAC
       <br>
       <sub>Formação profissional</sub>
     </td>
+
     <td width="180" align="center" valign="middle">
       <strong>2026</strong>
     </td>
   </tr>
 </table>
-
 <!-- GITHUB STATS -->
 
 ## GitHub Stats
