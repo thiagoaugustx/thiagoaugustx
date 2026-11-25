@@ -171,63 +171,46 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 </table>
 
 
+<!-- Formação -->
+
 ## Formação
 
 <table>
   <tr>
     <td width="160" align="center" valign="middle">
-      <img
-        src="./education/uninter.svg"
-        width="120"
-        alt="UNINTER"
-      />
+      <img src="./education/uninter.svg" width="120" alt="UNINTER"/>
     </td>
-    <td width="460" valign="middle">
-      <h3>Engenharia de Software</h3>
-      Centro Universitário Internacional — UNINTER
-      <br>
+    <td width="460" align="left" valign="middle">
+      <strong>Engenharia de Software</strong><br><br>
+      Centro Universitário Internacional — UNINTER<br>
       <sub>Bacharelado</sub>
     </td>
     <td width="180" align="center" valign="middle">
-      <strong>2024 – Atual</strong>
-      <br>
+      <strong>2024 – Atual</strong><br>
       <sub>Em andamento</sub>
     </td>
   </tr>
-
   <tr>
     <td width="160" align="center" valign="middle">
-      <img
-        src="./education/senai.svg"
-        width="120"
-        alt="SENAI"
-      />
+      <img src="./education/senai.svg" width="120" alt="SENAI"/>
     </td>
-    <td width="460" valign="middle">
-      <h3>Programador Front-end</h3>
-      Firjan SENAI — Niterói
-      <br>
+    <td width="460" align="left" valign="middle">
+      <strong>Programador Front-end</strong><br><br>
+      Firjan SENAI — Niterói<br>
       <sub>Formação profissional</sub>
     </td>
     <td width="180" align="center" valign="middle">
-      <strong>2024</strong>
-      <br>
+      <strong>2024</strong><br>
       <sub>Concluído</sub>
     </td>
   </tr>
-
   <tr>
     <td width="160" align="center" valign="middle">
-      <img
-        src="./education/senac.svg"
-        width="120"
-        alt="SENAC"
-      />
+      <img src="./education/senac.svg" width="120" alt="SENAC"/>
     </td>
-    <td width="460" valign="middle">
-      <h3>Programação em Python</h3>
-      SENAC
-      <br>
+    <td width="460" align="left" valign="middle">
+      <strong>Programação em Python</strong><br><br>
+      SENAC<br>
       <sub>Formação profissional</sub>
     </td>
     <td width="180" align="center" valign="middle">
