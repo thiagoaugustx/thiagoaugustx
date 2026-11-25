@@ -157,20 +157,47 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 
 <h2>GitHub Stats</h2>
 
-<div align="center">
-  <img width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=thiagoaugustx&show_icons=true&hide_rank=true&hide=issues&custom_title=Estatísticas&bg_color=161B22&border_color=30363D&title_color=C9D1D9&text_color=C9D1D9&icon_color=58A6FF"
-    alt="Estatísticas do GitHub"
+<div>
+
+  <img
+    align="right"
+    width="52%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoaugustx&layout=normal&langs_count=5&hide_border=true&bg_color=00000000&title_color=C9D1D9&text_color=C9D1D9&custom_title=Linguagens%20mais%20utilizadas"
+    alt="Linguagens mais utilizadas"
   />
-  <img width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoaugustx&layout=compact&custom_title=Linguagens&bg_color=161B22&border_color=30363D&title_color=C9D1D9&text_color=C9D1D9&langs_count=6"
-    alt="Linguagens utilizadas"
+
+  <img
+    width="40%"
+    src="https://streak-stats.demolab.com?user=thiagoaugustx&theme=transparent&hide_border=true&locale=pt_BR&hide_current_streak=true&hide_longest_streak=true&sideNums=67DC57&sideLabels=C9D1D9&card_width=280&card_height=85"
+    alt="Total de contribuições"
   />
+
+  <br>
+
+  <img
+    width="40%"
+    src="https://streak-stats.demolab.com?user=thiagoaugustx&theme=transparent&hide_border=true&locale=pt_BR&hide_total_contributions=true&hide_longest_streak=true&currStreakNum=67DC57&currStreakLabel=C9D1D9&ring=2185E9&fire=67DC57&card_width=280&card_height=130"
+    alt="Sequência atual"
+  />
+
+  <br>
+
+  <img
+    width="40%"
+    src="https://streak-stats.demolab.com?user=thiagoaugustx&theme=transparent&hide_border=true&locale=pt_BR&hide_total_contributions=true&hide_current_streak=true&sideNums=67DC57&sideLabels=C9D1D9&card_width=280&card_height=85"
+    alt="Maior sequência"
+  />
+
 </div>
 
+<br>
+
+<h3>Histórico de contribuições</h3>
+
 <div align="center">
-  <img width="98%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagoaugustx&theme=github_dark&bg_color=161B22&title_color=C9D1D9&text_color=C9D1D9&border_color=30363D&chart_color=67DC57&icon_color=58A6FF"
-    alt="Histórico anual de contribuições"
+  <img
+    width="100%"
+    src="https://ghchart.rshah.org/67DC57/thiagoaugustx"
+    alt="Contribuições nos últimos 12 meses"
   />
 </div>
