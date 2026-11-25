@@ -2,7 +2,7 @@
 
 <div align="center">
   <img
-    src="./assets/banner.svg"
+    src="./banner.svg"
     alt="Thiago Augusto - Desenvolvedor Web"
     width="100%"
   />
@@ -177,7 +177,7 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
   <tr>
     <td width="160" align="center" valign="middle">
       <img
-        src="./assets/education/uninter.svg"
+        src="./education/uninter.svg"
         width="120"
         alt="UNINTER"
       />
@@ -198,7 +198,7 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
   <tr>
     <td width="160" align="center" valign="middle">
       <img
-        src="./assets/education/senai.svg"
+        src="./education/senai.svg"
         width="120"
         alt="SENAI"
       />
