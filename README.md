@@ -181,7 +181,7 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
       <img src="./education/bacharelado.svg" height="32" alt="Bacharelado"/>
     </td>
     <td width="240" align="left" valign="middle">
-      <img src="./education/2024-atual.svg" height="32" alt="2024 – Atual"/><br><br>
+      <img src="./education/2024-atual.svg" height="32" alt="2024 – Atual"/><br>
       <img src="./education/em-andamento.svg" height="32" alt="Em andamento"/>
     </td>
   </tr>
@@ -195,7 +195,7 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
       <img src="./education/formacao-profissional.svg" height="32" alt="Formação profissional"/>
     </td>
     <td width="240" align="left" valign="middle">
-      <img src="./education/2024.svg" height="32" alt="2024"/><br><br>
+      <img src="./education/2024.svg" height="32" alt="2024"/><br>
       <img src="./education/concluido.svg" height="32" alt="Concluído"/>
     </td>
   </tr>
@@ -209,7 +209,8 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
       <img src="./education/formacao-profissional.svg" height="32" alt="Formação profissional"/>
     </td>
     <td width="240" align="left" valign="middle">
-      <img src="./education/2026.svg" height="32" alt="2026"/>
+      <img src="./education/2026.svg" height="32" alt="2026"/><br>
+      <img src="./education/concluido.svg" height="32" alt="Concluído"/>
     </td>
   </tr>
 </table>
