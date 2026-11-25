@@ -170,17 +170,17 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 ## Formação
 
 <div align="center">
-<table>
+<table width="960">
   <tr>
     <td width="160" align="center" valign="middle">
       <img src="./education/uninter.svg" width="120" alt="UNINTER"/>
     </td>
-    <td width="460" align="left" valign="middle">
+    <td width="560" align="left" valign="middle">
       <strong>Engenharia de Software</strong><br><br>
       Centro Universitário Internacional — UNINTER<br>
       <sub>Bacharelado</sub>
     </td>
-    <td width="180" align="center" valign="middle">
+    <td width="240" align="center" valign="middle">
       <strong>2024 – Atual</strong><br>
       <sub>Em andamento</sub>
     </td>
@@ -189,12 +189,12 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
     <td width="160" align="center" valign="middle">
       <img src="./education/senai.svg" width="120" alt="SENAI"/>
     </td>
-    <td width="460" align="left" valign="middle">
+    <td width="560" align="left" valign="middle">
       <strong>Programador Front-end</strong><br><br>
       Firjan SENAI — Niterói<br>
       <sub>Formação profissional</sub>
     </td>
-    <td width="180" align="center" valign="middle">
+    <td width="240" align="center" valign="middle">
       <strong>2024</strong><br>
       <sub>Concluído</sub>
     </td>
@@ -203,12 +203,12 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
     <td width="160" align="center" valign="middle">
       <img src="./education/senac.svg" width="120" alt="SENAC"/>
     </td>
-    <td width="460" align="left" valign="middle">
+    <td width="560" align="left" valign="middle">
       <strong>Programação em Python</strong><br><br>
       SENAC<br>
       <sub>Formação profissional</sub>
     </td>
-    <td width="180" align="center" valign="middle">
+    <td width="240" align="center" valign="middle">
       <strong>2026</strong>
     </td>
   </tr>
