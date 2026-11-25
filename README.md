@@ -24,44 +24,44 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 
 ## Tech Stack
 
-<table width="100%">
+<div align="center">
+<table>
   <tr>
-    <td width="40%" align="center">
+    <td width="330" align="center" valign="middle">
       <strong>Linguagens e frameworks</strong>
     </td>
-    <td width="40%" align="center">
+    <td width="330" align="center" valign="middle">
       <strong>Ferramentas e plataformas</strong>
     </td>
-    <td width="20%" align="center">
+    <td width="140" align="center" valign="middle">
       <strong>Estudando</strong>
     </td>
   </tr>
-
   <tr>
-    <td align="center">
+    <td align="center" valign="middle">
       <img
         src="https://skillicons.dev/icons?i=html,css,js,python,django&theme=dark"
-        alt="HTML, CSS, JavaScript, Python e Django"
         height="42"
+        alt="HTML, CSS, JavaScript, Python e Django"
       />
     </td>
-    <td align="center">
+    <td align="center" valign="middle">
       <img
         src="https://skillicons.dev/icons?i=git,github,vscode,figma,wordpress&theme=dark"
-        alt="Git, GitHub, VS Code, Figma e WordPress"
         height="42"
+        alt="Git, GitHub, VS Code, Figma e WordPress"
       />
     </td>
-    <td align="center">
+    <td align="center" valign="middle">
       <img
         src="https://skillicons.dev/icons?i=react&theme=dark"
-        alt="React"
         height="42"
+        alt="React"
       />
     </td>
   </tr>
 </table>
-
+</div>
 
 <!-- PROJETOS EM DESTAQUE -->
 
