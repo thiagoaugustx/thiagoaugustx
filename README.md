@@ -24,63 +24,42 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 
 ## Tech Stack
 
-<div align="center">
-<table>
-  <tr>
-    <td width="330" align="center" valign="middle">
-      <strong>Linguagens e frameworks</strong>
-    </td>
-    <td width="330" align="center" valign="middle">
-      <strong>Ferramentas e plataformas</strong>
-    </td>
-    <td width="140" align="center" valign="middle">
-      <strong>Estudando</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle">
-      <img
+<h3>Linguagens e frameworks</h3>
+<p><img
         src="https://skillicons.dev/icons?i=html,css,js,python,django&theme=dark"
         height="42"
         alt="HTML, CSS, JavaScript, Python e Django"
-      />
-    </td>
-    <td align="center" valign="middle">
-      <img
+      /></p>
+
+<h3>Ferramentas e plataformas</h3>
+<p><img
         src="https://skillicons.dev/icons?i=git,github,vscode,figma,wordpress&theme=dark"
         height="42"
         alt="Git, GitHub, VS Code, Figma e WordPress"
-      />
-    </td>
-    <td align="center" valign="middle">
-      <img
+      /></p>
+
+<h3>Estudando</h3>
+<p><img
         src="https://skillicons.dev/icons?i=react&theme=dark"
         height="42"
         alt="React"
-      />
-    </td>
-  </tr>
-</table>
-</div>
+      /></p>
 
 <!-- PROJETOS EM DESTAQUE -->
 
 ## Projetos em destaque
 
-<div align="center">
-<table width="960">
-  <tr>
-    <td width="40%" height="230" valign="middle" align="center">
-      <a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/">
+<p align="center">
+<a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/">
         <img
           src="./projects/marinelli.png"
           alt="Preview do site Eletrotécnica Marinelli"
-          width="100%"
+          width="640"
         />
       </a>
-    </td>
-    <td width="60%" valign="middle" align="left">
-      <h3>Eletrotécnica Marinelli</h3>
+</p>
+
+<h3>Eletrotécnica Marinelli</h3>
       <p>
       Website institucional responsivo com formulários integrados ao Google Apps Script,
       armazenamento de dados em planilhas e notificações automatizadas por e-mail.</p>
@@ -90,22 +69,21 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
         alt="HTML, CSS e JavaScript"
       /></p>
       <a href="https://github.com/thiagoaugustx/website-eletrotecnica-marinelli"><img src="./projects/repositorio.svg" width="140" height="34" alt="Repositório"/></a>
-      &nbsp;
       <a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/"><img src="./projects/visitar-site.svg" width="140" height="34" alt="Visitar site"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="40%" height="230" valign="middle" align="center">
-      <a href="https://github.com/thiagoaugustx/Django-Cafeteria">
+
+<hr>
+
+<p align="center">
+<a href="https://github.com/thiagoaugustx/Django-Cafeteria">
         <img
           src="./projects/django-cafeteria.png"
           alt="Preview do projeto Django Cafeteria"
-          width="100%"
+          width="640"
         />
       </a>
-    </td>
-    <td width="60%" valign="middle" align="left">
-      <h3>Django Cafeteria</h3>
+</p>
+
+<h3>Django Cafeteria</h3>
       <p>
       Aplicação web desenvolvida com Python e Django, voltada à apresentação
       de um catálogo de produtos de uma cafeteria.</p>
@@ -115,20 +93,20 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
         alt="Python e Django"
       /></p>
       <a href="https://github.com/thiagoaugustx/Django-Cafeteria"><img src="./projects/repositorio.svg" width="140" height="34" alt="Repositório"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="40%" height="230" valign="middle" align="center">
-      <a href="https://github.com/thiagoaugustx/construir-com-aco">
+
+<hr>
+
+<p align="center">
+<a href="https://github.com/thiagoaugustx/construir-com-aco">
         <img
           src="./projects/ferrobran.png"
           alt="Preview da landing page Construir com Aço"
-          width="100%"
+          width="640"
         />
       </a>
-    </td>
-    <td width="60%" valign="middle" align="left">
-      <h3>Construir com Aço</h3>
+</p>
+
+<h3>Construir com Aço</h3>
       <p>
       Landing page desenvolvida para apresentação do programa de parcerias comerciais
       da Ferrobran Estruturas Metálicas.</p>
@@ -138,20 +116,20 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
         alt="HTML, CSS e JavaScript"
       /></p>
       <a href="https://github.com/thiagoaugustx/construir-com-aco"><img src="./projects/repositorio.svg" width="140" height="34" alt="Repositório"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="40%" height="230" valign="middle" align="center">
-      <a href="https://github.com/thiagoaugustx/Canela-Engenharia-Eletrica">
+
+<hr>
+
+<p align="center">
+<a href="https://github.com/thiagoaugustx/Canela-Engenharia-Eletrica">
         <img
           src="./projects/canela.png"
           alt="Preview do site Canela Engenharia Elétrica"
-          width="100%"
+          width="640"
         />
       </a>
-    </td>
-    <td width="60%" valign="middle" align="left">
-      <h3>Canela Engenharia Elétrica</h3>
+</p>
+
+<h3>Canela Engenharia Elétrica</h3>
       <p>
       Website institucional voltado à apresentação de serviços de engenharia elétrica
       e captação de potenciais clientes.</p>
@@ -161,61 +139,41 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
         alt="HTML, CSS e JavaScript"
       /></p>
       <a href="https://github.com/thiagoaugustx/Canela-Engenharia-Eletrica"><img src="./projects/repositorio.svg" width="140" height="34" alt="Repositório"/></a>
-    </td>
-  </tr>
-</table>
-</div>
 
 <!-- Formação -->
 
 ## Formação
 
-<div align="center">
-<table width="960">
-  <tr>
-    <td width="160" height="140" align="center" valign="middle">
-      <img src="./education/uninter.svg" width="140" height="100" alt="UNINTER"/>
-    </td>
-    <td width="560" align="left" valign="middle">
-      <strong>Engenharia de Software</strong><br>
-      Centro Universitário Internacional — UNINTER<br><br>
-      <img src="./education/bacharelado.svg" height="32" alt="Bacharelado"/>
-    </td>
-    <td width="240" align="left" valign="middle">
-      <img src="./education/2024-atual.svg" height="32" alt="2024 – Atual"/><br>
-      <img src="./education/em-andamento.svg" height="32" alt="Em andamento"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="160" height="140" align="center" valign="middle">
-      <img src="./education/senai.svg" width="140" height="100" alt="SENAI"/>
-    </td>
-    <td width="560" align="left" valign="middle">
-      <strong>Programador Front-end</strong><br>
-      Firjan SENAI — Niterói<br><br>
-      <img src="./education/formacao-profissional.svg" height="32" alt="Formação profissional"/>
-    </td>
-    <td width="240" align="left" valign="middle">
-      <img src="./education/2024.svg" height="32" alt="2024"/><br>
-      <img src="./education/concluido.svg" height="32" alt="Concluído"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="160" height="140" align="center" valign="middle">
-      <img src="./education/senac.svg" width="140" height="100" alt="SENAC"/>
-    </td>
-    <td width="560" align="left" valign="middle">
-      <strong>Programação em Python</strong><br>
-      SENAC<br><br>
-      <img src="./education/formacao-profissional.svg" height="32" alt="Formação profissional"/>
-    </td>
-    <td width="240" align="left" valign="middle">
-      <img src="./education/2026.svg" height="32" alt="2026"/><br>
-      <img src="./education/concluido.svg" height="32" alt="Concluído"/>
-    </td>
-  </tr>
-</table>
-</div>
+<p><img src="./education/uninter.svg" width="140" height="100" alt="UNINTER"/></p>
+<h3>Engenharia de Software</h3>
+<p>Centro Universitário Internacional — UNINTER</p>
+<p><img src="./education/bacharelado.svg" height="32" alt="Bacharelado"/></p>
+<p>
+<img src="./education/2024-atual.svg" height="32" alt="2024 – Atual"/>
+<img src="./education/em-andamento.svg" height="32" alt="Em andamento"/>
+</p>
+
+<hr>
+
+<p><img src="./education/senai.svg" width="140" height="100" alt="SENAI"/></p>
+<h3>Programador Front-end</h3>
+<p>Firjan SENAI — Niterói</p>
+<p><img src="./education/formacao-profissional.svg" height="32" alt="Formação profissional"/></p>
+<p>
+<img src="./education/2024.svg" height="32" alt="2024"/>
+<img src="./education/concluido.svg" height="32" alt="Concluído"/>
+</p>
+
+<hr>
+
+<p><img src="./education/senac.svg" width="140" height="100" alt="SENAC"/></p>
+<h3>Programação em Python</h3>
+<p>SENAC</p>
+<p><img src="./education/formacao-profissional.svg" height="32" alt="Formação profissional"/></p>
+<p>
+<img src="./education/2026.svg" height="32" alt="2026"/>
+<img src="./education/concluido.svg" height="32" alt="Concluído"/>
+</p>
 
 <!-- GITHUB STATS -->
 
@@ -223,12 +181,14 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 
 <p align="center">
   <img
-    width="49%"
+    width="450"
     src="https://github-readme-stats.vercel.app/api?username=thiagoaugustx&show_icons=true&hide_border=true&hide_rank=true&hide=issues&theme=transparent&title_color=C9D1D9&text_color=C9D1D9&icon_color=58A6FF&custom_title=GitHub%20Stats"
     alt="Estatísticas do GitHub"
   />
+</p>
+<p align="center">
   <img
-    width="49%"
+    width="450"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoaugustx&layout=compact&langs_count=5&hide_border=true&theme=transparent&title_color=C9D1D9&text_color=C9D1D9&custom_title=Top%205%20Linguagens"
     alt="Cinco linguagens mais utilizadas"
   />
@@ -240,11 +200,8 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 ## Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thiagoaugustx/"><img src="./contacts/linkedin.svg?v=2" width="180" alt="LinkedIn"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/thiagoaugustx/"><img src="./contacts/instagram.svg?v=2" width="180" alt="Instagram"/></a>
-  &nbsp;&nbsp;
-  <a href="mailto:thiagoacdesouza@gmai.com"><img src="./contacts/gmail.svg?v=2" width="180" alt="Gmail"/></a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/5521987881819"><img src="./contacts/whatsapp.svg?v=2" width="180" alt="WhatsApp"/></a>
+  <a href="https://www.linkedin.com/in/thiagoaugustx/"><img src="./contacts/linkedin.svg?v=2" width="140" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/thiagoaugustx/"><img src="./contacts/instagram.svg?v=2" width="140" alt="Instagram"/></a>
+  <a href="mailto:thiagoacdesouza@gmai.com"><img src="./contacts/gmail.svg?v=2" width="140" alt="Gmail"/></a>
+  <a href="https://wa.me/5521987881819"><img src="./contacts/whatsapp.svg?v=2" width="140" alt="WhatsApp"/></a>
 </p>
