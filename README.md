@@ -169,3 +169,27 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
     alt="Top 5 Linguagens"
   />
 </p>
+
+<h2>Connect with me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thiagoaugustx/">
+    <img src="https://skillicons.dev/icons?i=linkedin" 
+         width="42" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/thiagoaugustx/">
+    <img src="https://skillicons.dev/icons?i=instagram" 
+         width="42" alt="Instagram">
+  </a>
+  &nbsp;
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://skillicons.dev/icons?i=gmail" 
+         width="42" alt="Gmail">
+  </a>
+  &nbsp;
+  <a href="https://wa.me/SEU_NUMERO">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" 
+         width="42" alt="WhatsApp">
+  </a>
+</p>
