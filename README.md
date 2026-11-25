@@ -67,109 +67,103 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 
 ## Projetos em destaque
 
-<table width="100%">
+<div align="center">
+<table width="960">
   <tr>
-    <td width="38%" valign="middle" align="center">
-      <a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/"><img
-        src="./projects/marinelli.png"
-        alt="Preview do site Eletrotécnica Marinelli"
-        width="100%"
-      /></a>
-    </td>
-    <td width="62%" valign="middle">
-      <h3>Eletrotécnica Marinelli</h3>
-      <p>
-        Website institucional responsivo com formulários
-        integrados ao Google Apps Script, armazenamento
-        de dados em planilhas e notificações automatizadas
-        por e-mail.
-      </p>
-      <p>
+    <td width="36%" valign="middle" align="center">
+      <a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/">
         <img
-          src="https://skillicons.dev/icons?i=html,css,js&theme=dark"
-          height="28"
-          alt="HTML, CSS e JavaScript"
+          src="./projects/marinelli.png"
+          alt="Preview do site Eletrotécnica Marinelli"
+          width="100%"
         />
-      </p>
-      <p>
-        <a href="https://github.com/thiagoaugustx/website-eletrotecnica-marinelli">Repositório</a>
-        &nbsp;·&nbsp;
-        <a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/">Visitar site</a>
-      </p>
+      </a>
+    </td>
+    <td width="64%" valign="middle" align="left">
+      <strong>Eletrotécnica Marinelli</strong><br><br>
+      Website institucional responsivo com formulários integrados ao Google Apps Script,
+      armazenamento de dados em planilhas e notificações automatizadas por e-mail.<br><br>
+      <img
+        src="https://skillicons.dev/icons?i=html,css,js&theme=dark"
+        height="28"
+        alt="HTML, CSS e JavaScript"
+      /><br><br>
+      <a href="https://github.com/thiagoaugustx/website-eletrotecnica-marinelli">Repositório</a>
+      &nbsp;·&nbsp;
+      <a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/">Visitar site</a>
     </td>
   </tr>
 
   <tr>
-    <td width="38%" valign="middle" align="center">
-      <a href="https://github.com/thiagoaugustx/Django-Cafeteria"><img
-        src="./projects/django-cafeteria.png"
-        alt="Preview do projeto Django Cafeteria"
-        width="100%"
-      /></a>
-    </td>
-    <td width="62%" valign="middle">
-      <h3>Django Cafeteria</h3>
-      <p>
-        Aplicação web desenvolvida com Python e Django,
-        voltada à apresentação de um catálogo de produtos
-        de uma cafeteria.
-      </p>
-      <p>
+    <td width="36%" valign="middle" align="center">
+      <a href="https://github.com/thiagoaugustx/Django-Cafeteria">
         <img
-          src="https://skillicons.dev/icons?i=python,django&theme=dark"
-          height="28"
-          alt="Python e Django"
+          src="./projects/django-cafeteria.png"
+          alt="Preview do projeto Django Cafeteria"
+          width="100%"
         />
-      </p>
-      <p>
-        <a href="https://github.com/thiagoaugustx/Django-Cafeteria">Repositório</a>
-      </p>
+      </a>
+    </td>
+    <td width="64%" valign="middle" align="left">
+      <strong>Django Cafeteria</strong><br><br>
+      Aplicação web desenvolvida com Python e Django, voltada à apresentação
+      de um catálogo de produtos de uma cafeteria.<br><br>
+      <img
+        src="https://skillicons.dev/icons?i=python,django&theme=dark"
+        height="28"
+        alt="Python e Django"
+      /><br><br>
+      <a href="https://github.com/thiagoaugustx/Django-Cafeteria">Repositório</a>
     </td>
   </tr>
 
   <tr>
-    <td width="38%" valign="middle" align="center">
-      <a href="https://github.com/thiagoaugustx/construir-com-aco"><img
-        src="./projects/ferrobran.png"
-        alt="Preview da landing page Construir com Aço"
-        width="100%"
-      /></a>
+    <td width="36%" valign="middle" align="center">
+      <a href="https://github.com/thiagoaugustx/construir-com-aco">
+        <img
+          src="./projects/ferrobran.png"
+          alt="Preview da landing page Construir com Aço"
+          width="100%"
+        />
+      </a>
     </td>
-    <td width="62%" valign="middle">
-      <h3>Construir com Aço</h3>
-      <p>
-        Landing page desenvolvida para apresentação
-        do programa de parcerias comerciais da
-        Ferrobran Estruturas Metálicas.
-      </p>
-      <p>
-        <a href="https://github.com/thiagoaugustx/construir-com-aco">Repositório</a>
-      </p>
+    <td width="64%" valign="middle" align="left">
+      <strong>Construir com Aço</strong><br><br>
+      Landing page desenvolvida para apresentação do programa de parcerias comerciais
+      da Ferrobran Estruturas Metálicas.<br><br>
+      <img
+        src="https://skillicons.dev/icons?i=html,css,js&theme=dark"
+        height="28"
+        alt="HTML, CSS e JavaScript"
+      /><br><br>
+      <a href="https://github.com/thiagoaugustx/construir-com-aco">Repositório</a>
     </td>
   </tr>
 
   <tr>
-    <td width="38%" valign="middle" align="center">
-      <a href="https://github.com/thiagoaugustx/Canela-Engenharia-Eletrica"><img
-        src="./projects/canela.png"
-        alt="Preview do site Canela Engenharia Elétrica"
-        width="100%"
-      /></a>
+    <td width="36%" valign="middle" align="center">
+      <a href="https://github.com/thiagoaugustx/Canela-Engenharia-Eletrica">
+        <img
+          src="./projects/canela.png"
+          alt="Preview do site Canela Engenharia Elétrica"
+          width="100%"
+        />
+      </a>
     </td>
-    <td width="62%" valign="middle">
-      <h3>Canela Engenharia Elétrica</h3>
-      <p>
-        Website institucional voltado à apresentação
-        de serviços de engenharia elétrica e captação
-        de potenciais clientes.
-      </p>
-      <p>
-        <a href="https://github.com/thiagoaugustx/Canela-Engenharia-Eletrica">Repositório</a>
-      </p>
+    <td width="64%" valign="middle" align="left">
+      <strong>Canela Engenharia Elétrica</strong><br><br>
+      Website institucional voltado à apresentação de serviços de engenharia elétrica
+      e captação de potenciais clientes.<br><br>
+      <img
+        src="https://skillicons.dev/icons?i=html,css,js&theme=dark"
+        height="28"
+        alt="HTML, CSS e JavaScript"
+      /><br><br>
+      <a href="https://github.com/thiagoaugustx/Canela-Engenharia-Eletrica">Repositório</a>
     </td>
   </tr>
 </table>
-
+</div>
 
 <!-- Formação -->
 
