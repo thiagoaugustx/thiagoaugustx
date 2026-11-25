@@ -114,3 +114,43 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
     </td>
   </tr>
 </table>
+
+<h2>Formação acadêmica e profissional</h2>
+
+<table>
+  <tr>
+    <td width="85" align="center">
+      <img src="./assets/education/uninter.png"
+           width="65" alt="UNINTER">
+    </td>
+    <td>
+      <strong>Engenharia de Software</strong><br>
+      Centro Universitário Internacional — UNINTER<br>
+      <sub>2024 – Atualmente | Bacharelado</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="85" align="center">
+      <img src="./assets/education/senai.png"
+           width="65" alt="SENAI">
+    </td>
+    <td>
+      <strong>Programador Front-end</strong><br>
+      Firjan SENAI — Niterói<br>
+      <sub>2024 | Formação profissional</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="85" align="center">
+      <img src="./assets/education/senac.png"
+           width="65" alt="SENAC">
+    </td>
+    <td>
+      <strong>Programação em Python</strong><br>
+      SENAC<br>
+      <sub>2026 | Formação profissional</sub>
+    </td>
+  </tr>
+</table>
