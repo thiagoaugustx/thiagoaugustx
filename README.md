@@ -244,11 +244,11 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 ## Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thiagoaugustx/"><img src="./contacts/linkedin.svg" width="180" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/thiagoaugustx/"><img src="./contacts/linkedin.svg?v=2" width="180" alt="LinkedIn"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/thiagoaugustx/"><img src="./contacts/instagram.svg" width="180" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/thiagoaugustx/"><img src="./contacts/instagram.svg?v=2" width="180" alt="Instagram"/></a>
   &nbsp;&nbsp;
-  <a href="mailto:SEU_EMAIL"><img src="./contacts/gmail.svg" width="180" alt="Gmail"/></a>
+  <a href="mailto:thiagoacdesouza@gmai.com"><img src="./contacts/gmail.svg?v=2" width="180" alt="Gmail"/></a>
   &nbsp;&nbsp;
-  <a href="https://wa.me/SEU_NUMERO"><img src="./contacts/whatsapp.svg" width="180" alt="WhatsApp"/></a>
+  <a href="https://wa.me/5521987881819"><img src="./contacts/whatsapp.svg?v=2" width="180" alt="WhatsApp"/></a>
 </p>
