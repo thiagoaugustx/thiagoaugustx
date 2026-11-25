@@ -70,7 +70,7 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 <div align="center">
 <table width="960">
   <tr>
-    <td width="36%" valign="middle" align="center">
+    <td width="40%" height="230" valign="middle" align="center">
       <a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/">
         <img
           src="./projects/marinelli.png"
@@ -79,23 +79,23 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
         />
       </a>
     </td>
-    <td width="64%" valign="middle" align="left">
-      <strong>Eletrotécnica Marinelli</strong><br><br>
+    <td width="60%" valign="middle" align="left">
+      <h3>Eletrotécnica Marinelli</h3>
+      <p>
       Website institucional responsivo com formulários integrados ao Google Apps Script,
-      armazenamento de dados em planilhas e notificações automatizadas por e-mail.<br><br>
-      <img
+      armazenamento de dados em planilhas e notificações automatizadas por e-mail.</p>
+      <p><img
         src="https://skillicons.dev/icons?i=html,css,js&theme=dark"
         height="28"
         alt="HTML, CSS e JavaScript"
-      /><br><br>
-      <a href="https://github.com/thiagoaugustx/website-eletrotecnica-marinelli">Repositório</a>
-      &nbsp;·&nbsp;
-      <a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/">Visitar site</a>
+      /></p>
+      <a href="https://github.com/thiagoaugustx/website-eletrotecnica-marinelli"><img src="./projects/repositorio.svg" width="140" height="34" alt="Repositório"/></a>
+      &nbsp;
+      <a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/"><img src="./projects/visitar-site.svg" width="140" height="34" alt="Visitar site"/></a>
     </td>
   </tr>
-
   <tr>
-    <td width="36%" valign="middle" align="center">
+    <td width="40%" height="230" valign="middle" align="center">
       <a href="https://github.com/thiagoaugustx/Django-Cafeteria">
         <img
           src="./projects/django-cafeteria.png"
@@ -104,21 +104,21 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
         />
       </a>
     </td>
-    <td width="64%" valign="middle" align="left">
-      <strong>Django Cafeteria</strong><br><br>
+    <td width="60%" valign="middle" align="left">
+      <h3>Django Cafeteria</h3>
+      <p>
       Aplicação web desenvolvida com Python e Django, voltada à apresentação
-      de um catálogo de produtos de uma cafeteria.<br><br>
-      <img
+      de um catálogo de produtos de uma cafeteria.</p>
+      <p><img
         src="https://skillicons.dev/icons?i=python,django&theme=dark"
         height="28"
         alt="Python e Django"
-      /><br><br>
-      <a href="https://github.com/thiagoaugustx/Django-Cafeteria">Repositório</a>
+      /></p>
+      <a href="https://github.com/thiagoaugustx/Django-Cafeteria"><img src="./projects/repositorio.svg" width="140" height="34" alt="Repositório"/></a>
     </td>
   </tr>
-
   <tr>
-    <td width="36%" valign="middle" align="center">
+    <td width="40%" height="230" valign="middle" align="center">
       <a href="https://github.com/thiagoaugustx/construir-com-aco">
         <img
           src="./projects/ferrobran.png"
@@ -127,21 +127,21 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
         />
       </a>
     </td>
-    <td width="64%" valign="middle" align="left">
-      <strong>Construir com Aço</strong><br><br>
+    <td width="60%" valign="middle" align="left">
+      <h3>Construir com Aço</h3>
+      <p>
       Landing page desenvolvida para apresentação do programa de parcerias comerciais
-      da Ferrobran Estruturas Metálicas.<br><br>
-      <img
+      da Ferrobran Estruturas Metálicas.</p>
+      <p><img
         src="https://skillicons.dev/icons?i=html,css,js&theme=dark"
         height="28"
         alt="HTML, CSS e JavaScript"
-      /><br><br>
-      <a href="https://github.com/thiagoaugustx/construir-com-aco">Repositório</a>
+      /></p>
+      <a href="https://github.com/thiagoaugustx/construir-com-aco"><img src="./projects/repositorio.svg" width="140" height="34" alt="Repositório"/></a>
     </td>
   </tr>
-
   <tr>
-    <td width="36%" valign="middle" align="center">
+    <td width="40%" height="230" valign="middle" align="center">
       <a href="https://github.com/thiagoaugustx/Canela-Engenharia-Eletrica">
         <img
           src="./projects/canela.png"
@@ -150,16 +150,17 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
         />
       </a>
     </td>
-    <td width="64%" valign="middle" align="left">
-      <strong>Canela Engenharia Elétrica</strong><br><br>
+    <td width="60%" valign="middle" align="left">
+      <h3>Canela Engenharia Elétrica</h3>
+      <p>
       Website institucional voltado à apresentação de serviços de engenharia elétrica
-      e captação de potenciais clientes.<br><br>
-      <img
+      e captação de potenciais clientes.</p>
+      <p><img
         src="https://skillicons.dev/icons?i=html,css,js&theme=dark"
         height="28"
         alt="HTML, CSS e JavaScript"
-      /><br><br>
-      <a href="https://github.com/thiagoaugustx/Canela-Engenharia-Eletrica">Repositório</a>
+      /></p>
+      <a href="https://github.com/thiagoaugustx/Canela-Engenharia-Eletrica"><img src="./projects/repositorio.svg" width="140" height="34" alt="Repositório"/></a>
     </td>
   </tr>
 </table>

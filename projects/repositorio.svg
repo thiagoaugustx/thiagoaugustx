@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="34" viewBox="0 0 140 34" role="img" aria-labelledby="title">
+  <title id="title">Repositório</title>
+  <defs>
+    <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#219BD8"/>
+      <stop offset="100%" stop-color="#35C9A5"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="138" height="32" rx="16" fill="#101820" stroke="url(#border)" stroke-width="1"/>
+  <g transform="translate(13 8)" fill="none" stroke="#35C9A5" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m5 4-4 5 4 5m8-10 4 5-4 5M11 2 7 16"/></g>
+  <text x="40" y="22" font-family="Arial, sans-serif" font-size="13" font-weight="600" fill="#E6EDF3">Repositório</text>
+</svg>
