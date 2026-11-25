@@ -175,6 +175,7 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 
 ## Formação
 
+<div align="center">
 <table>
   <tr>
     <td width="160" align="center" valign="middle">
@@ -218,6 +219,7 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
     </td>
   </tr>
 </table>
+</div>
 
 <!-- GITHUB STATS -->
 
