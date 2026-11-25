@@ -158,19 +158,19 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 <h2>GitHub Stats</h2>
 
 <div align="center">
+  <img width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=thiagoaugustx&show_icons=true&hide_rank=true&hide=issues&custom_title=Estatísticas&bg_color=161B22&border_color=30363D&title_color=C9D1D9&text_color=C9D1D9&icon_color=58A6FF"
+    alt="Estatísticas do GitHub"
+  />
+  <img width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoaugustx&layout=compact&custom_title=Linguagens&bg_color=161B22&border_color=30363D&title_color=C9D1D9&text_color=C9D1D9&langs_count=6"
+    alt="Linguagens utilizadas"
+  />
+</div>
 
-  <img width="49%"
-       src="https://github-readme-stats.vercel.app/api?username=thiagoaugustx&show_icons=true&hide_border=true&bg_color=00000000&title_color=67DC57&icon_color=2185E9&text_color=C9D1D9&hide_rank=true"
-       alt="Estatísticas do GitHub">
-
-  <img width="49%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoaugustx&layout=compact&hide_border=true&bg_color=00000000&title_color=67DC57&text_color=C9D1D9&langs_count=6"
-       alt="Linguagens mais utilizadas">
-
-  <br>
-
-  <img width="100%"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=thiagoaugustx&bg_color=transparent&color=67DC57&line=2185E9&point=67DC57&area=true&hide_border=true&custom_title=Atividade%20no%20GitHub"
-       alt="Gráfico de atividades">
-
+<div align="center">
+  <img width="98%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagoaugustx&theme=github_dark&bg_color=161B22&title_color=C9D1D9&text_color=C9D1D9&border_color=30363D&chart_color=67DC57&icon_color=58A6FF"
+    alt="Histórico anual de contribuições"
+  />
 </div>
