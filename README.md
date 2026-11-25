@@ -164,18 +164,8 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
     alt="GitHub Stats"
   />
   <img
-    width="43%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoaugustx&layout=donut&langs_count=5&hide_border=true&theme=transparent&title_color=C9D1D9&text_color=C9D1D9&custom_title=Most%20Used%20Languages"
-    alt="Most Used Languages"
-  />
-</p>
-
-<h3>Contribution Activity</h3>
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://ghchart.rshah.org/67DC57/thiagoaugustx"
-    alt="Annual GitHub Contributions"
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoaugustx&layout=compact&langs_count=5&hide_border=true&theme=transparent&title_color=C9D1D9&text_color=C9D1D9&custom_title=Top%205%20Linguagens"
+    alt="Top 5 Linguagens"
   />
 </p>
