@@ -155,49 +155,27 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
   </tr>
 </table>
 
-<h2>GitHub Stats</h2>
+<h2>GitHub Overview</h2>
 
-<div>
-
+<p align="center">
   <img
-    align="right"
-    width="52%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoaugustx&layout=normal&langs_count=5&hide_border=true&bg_color=00000000&title_color=C9D1D9&text_color=C9D1D9&custom_title=Linguagens%20mais%20utilizadas"
-    alt="Linguagens mais utilizadas"
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=thiagoaugustx&show_icons=true&hide_border=true&hide_rank=true&hide=issues&theme=transparent&title_color=C9D1D9&text_color=C9D1D9&icon_color=58A6FF&custom_title=GitHub%20Stats"
+    alt="GitHub Stats"
   />
-
   <img
-    width="40%"
-    src="https://streak-stats.demolab.com?user=thiagoaugustx&theme=transparent&hide_border=true&locale=pt_BR&hide_current_streak=true&hide_longest_streak=true&sideNums=67DC57&sideLabels=C9D1D9&card_width=280&card_height=85"
-    alt="Total de contribuições"
+    width="43%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoaugustx&layout=donut&langs_count=5&hide_border=true&theme=transparent&title_color=C9D1D9&text_color=C9D1D9&custom_title=Most%20Used%20Languages"
+    alt="Most Used Languages"
   />
+</p>
 
-  <br>
+<h3>Contribution Activity</h3>
 
-  <img
-    width="40%"
-    src="https://streak-stats.demolab.com?user=thiagoaugustx&theme=transparent&hide_border=true&locale=pt_BR&hide_total_contributions=true&hide_longest_streak=true&currStreakNum=67DC57&currStreakLabel=C9D1D9&ring=2185E9&fire=67DC57&card_width=280&card_height=130"
-    alt="Sequência atual"
-  />
-
-  <br>
-
-  <img
-    width="40%"
-    src="https://streak-stats.demolab.com?user=thiagoaugustx&theme=transparent&hide_border=true&locale=pt_BR&hide_total_contributions=true&hide_current_streak=true&sideNums=67DC57&sideLabels=C9D1D9&card_width=280&card_height=85"
-    alt="Maior sequência"
-  />
-
-</div>
-
-<br>
-
-<h3>Histórico de contribuições</h3>
-
-<div align="center">
+<p align="center">
   <img
     width="100%"
     src="https://ghchart.rshah.org/67DC57/thiagoaugustx"
-    alt="Contribuições nos últimos 12 meses"
+    alt="Annual GitHub Contributions"
   />
-</div>
+</p>
