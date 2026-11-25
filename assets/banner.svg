@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900" height="250"
+     viewBox="0 0 900 250">
+
+  <defs>
+    <linearGradient id="brand">
+      <stop offset="0%" stop-color="#67DC57"/>
+      <stop offset="100%" stop-color="#2185E9"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="250" rx="12"
+        fill="#05131D"/>
+
+  <g font-family="Arial, sans-serif">
+
+    <text x="36" y="53"
+          fill="#C9D1D9" font-size="20">
+      Olá, eu sou
+    </text>
+
+    <text x="34" y="111"
+          fill="url(#brand)"
+          font-weight="bold" font-size="48">
+      Thiago Augusto
+    </text>
+
+    <text x="36" y="145"
+          fill="#E6EDF3" font-size="19">
+      Desenvolvedor Web
+    </text>
+
+    <text x="36" y="174"
+          fill="#A8B5C0" font-size="16">
+      Graduando em Engenharia de Software
+    </text>
+
+    <rect x="36" y="203"
+          width="74" height="4" rx="2"
+          fill="url(#brand)"/>
+
+  </g>
+
+  <rect x="525" y="43"
+        width="339" height="165" rx="9"
+        fill="#101D26" stroke="#303B46"/>
+
+  <circle cx="543" cy="58" r="4" fill="#FF5F56"/>
+  <circle cx="557" cy="58" r="4" fill="#FFBD2E"/>
+  <circle cx="571" cy="58" r="4" fill="#27C93F"/>
+
+  <g font-family="monospace"
+     font-size="15" fill="#C9D1D9">
+
+    <text x="543" y="88">
+      <tspan fill="#79B8FF">const</tspan> thiago = {
+    </text>
+
+    <text x="555" y="112">
+      frontend: <tspan fill="#8DDB8C">'JavaScript'</tspan>,
+    </text>
+
+    <text x="555" y="136">
+      backend: <tspan fill="#8DDB8C">'Python/Django'</tspan>,
+    </text>
+
+    <text x="555" y="160">
+      focus: <tspan fill="#8DDB8C">'Full Stack'</tspan>
+    </text>
+
+    <text x="543" y="184">};</text>
+
+  </g>
+
+</svg>
