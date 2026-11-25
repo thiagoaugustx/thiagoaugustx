@@ -244,11 +244,11 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 ## Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thiagoaugustx/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="32"/></a>
+  <a href="https://www.linkedin.com/in/thiagoaugustx/"><img src="./contacts/linkedin.svg" width="180" alt="LinkedIn"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/thiagoaugustx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="32"/></a>
+  <a href="https://www.instagram.com/thiagoaugustx/"><img src="./contacts/instagram.svg" width="180" alt="Instagram"/></a>
   &nbsp;&nbsp;
-  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="32"/></a>
+  <a href="mailto:SEU_EMAIL"><img src="./contacts/gmail.svg" width="180" alt="Gmail"/></a>
   &nbsp;&nbsp;
-  <a href="https://wa.me/SEU_NUMERO"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="32"/></a>
+  <a href="https://wa.me/SEU_NUMERO"><img src="./contacts/whatsapp.svg" width="180" alt="WhatsApp"/></a>
 </p>
