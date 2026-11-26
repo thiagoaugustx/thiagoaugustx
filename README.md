@@ -23,12 +23,6 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 <!-- CONTATO RAPIDO -->
 ## Contato Rápido
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/thiagoaugustx/" target="_blank" rel="noopener noreferrer"><img src="./contacts/linkedin.svg?v=2" width="180" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:thiagoacdesouza@gmail.com"><img src="./contacts/gmail.svg?v=3" width="180" alt="thiagoacdesouza@gmail.com"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/5521987881819" target="_blank" rel="noopener noreferrer"><img src="./contacts/whatsapp.svg?v=2" width="180" alt="WhatsApp"></a>
-</p>
-
 <!-- TECH STACK -->
 
 ## Tech Stack
