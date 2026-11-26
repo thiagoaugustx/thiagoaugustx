@@ -43,57 +43,25 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 
 ## Projetos em destaque
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/">
-        <img src="./projects/marinelli.png" width="100%" alt="Prévia do website Eletrotécnica Marinelli"/>
-      </a>
-      <h3>Eletrotécnica Marinelli</h3>
-      <p>Website institucional com formulários automatizados, envio de e-mails e gestão de candidaturas.</p>
-      <p><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="27" alt="HTML, CSS e JavaScript"/></p>
-      <p>
-        <a href="https://github.com/thiagoaugustx/website-eletrotecnica-marinelli"><img src="./projects/repositorio.svg" width="125" alt="Repositório"/></a>
-        <a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/"><img src="./projects/visitar-site.svg" width="125" alt="Visitar site"/></a>
-      </p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/thiagoaugustx/Django-Cafeteria">
-        <img src="./projects/django-cafeteria.png" width="100%" alt="Prévia do projeto Django Cafeteria"/>
-      </a>
-      <h3>Django Cafeteria</h3>
-      <p>Aplicação web de catálogo de produtos, desenvolvida com Python e Django.</p>
-      <p><img src="https://skillicons.dev/icons?i=python,django&theme=dark" height="27" alt="Python e Django"/></p>
-      <p>
-        <a href="https://github.com/thiagoaugustx/Django-Cafeteria"><img src="./projects/repositorio.svg" width="125" alt="Repositório"/></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/thiagoaugustx/construir-com-aco">
-        <img src="./projects/ferrobran.png" width="100%" alt="Prévia da landing page Construir com Aço"/>
-      </a>
-      <h3>Construir com Aço</h3>
-      <p>Landing page para apresentação do programa de parcerias da Ferrobran Estruturas Metálicas.</p>
-      <p><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="27" alt="HTML, CSS e JavaScript"/></p>
-      <p>
-        <a href="https://github.com/thiagoaugustx/construir-com-aco"><img src="./projects/repositorio.svg" width="125" alt="Repositório"/></a>
-      </p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/thiagoaugustx/Canela-Engenharia-Eletrica">
-        <img src="./projects/canela.png" width="100%" alt="Prévia do website Canela Engenharia Elétrica"/>
-      </a>
-      <h3>Canela Engenharia Elétrica</h3>
-      <p>Website institucional para apresentação de serviços elétricos e geração de contatos comerciais.</p>
-      <p><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="27" alt="HTML, CSS e JavaScript"/></p>
-      <p>
-        <a href="https://github.com/thiagoaugustx/Canela-Engenharia-Eletrica"><img src="./projects/repositorio.svg" width="125" alt="Repositório"/></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/"><img src="./projects/cards/marinelli.png" width="355" alt="Projeto Eletrotécnica Marinelli: website institucional com formulários automatizados"/></a>&nbsp;
+  <a href="https://github.com/thiagoaugustx/Django-Cafeteria"><img src="./projects/cards/django-cafeteria.png" width="355" alt="Projeto Django Cafeteria: catálogo de produtos em Django"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/thiagoaugustx/website-eletrotecnica-marinelli"><img src="./projects/repositorio.svg" width="115" alt="Código da Marinelli"/></a>
+  <a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/"><img src="./projects/visitar-site.svg" width="115" alt="Visitar site da Marinelli"/></a>
+  &emsp;&emsp;&emsp;&emsp;
+  <a href="https://github.com/thiagoaugustx/Django-Cafeteria"><img src="./projects/repositorio.svg" width="115" alt="Código da Django Cafeteria"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/thiagoaugustx/construir-com-aco"><img src="./projects/cards/ferrobran.png" width="355" alt="Projeto Construir com Aço: landing page da Ferrobran"/></a>&nbsp;
+  <a href="https://github.com/thiagoaugustx/Canela-Engenharia-Eletrica"><img src="./projects/cards/canela.png" width="355" alt="Projeto Canela Engenharia Elétrica: website institucional"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/thiagoaugustx/construir-com-aco"><img src="./projects/repositorio.svg" width="115" alt="Código da Ferrobran"/></a>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  <a href="https://github.com/thiagoaugustx/Canela-Engenharia-Eletrica"><img src="./projects/repositorio.svg" width="115" alt="Código da Canela Engenharia Elétrica"/></a>
+</p>
 
 <!-- Formação -->
 
