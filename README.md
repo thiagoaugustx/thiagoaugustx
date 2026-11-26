@@ -112,8 +112,8 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 ## Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thiagoaugustx/" target="_blank" rel="noopener noreferrer"><img src="./contacts/linkedin.svg?v=2" width="150" alt="LinkedIn"/></a>&nbsp;
-  <a href="https://www.instagram.com/thiagoaugustx/" target="_blank" rel="noopener noreferrer"><img src="./contacts/instagram.svg?v=2" width="150" alt="Instagram"/></a>&nbsp;
-  <a href="mailto:thiagoacdesouza@gmail.com"><img src="./contacts/gmail.svg?v=6" width="220" alt="E-mail: thiagoacdesouza@gmail.com"/></a>&nbsp;
-  <a href="https://wa.me/5521987881819" target="_blank" rel="noopener noreferrer"><img src="./contacts/whatsapp.svg?v=2" width="150" alt="WhatsApp"/></a>
+  <a href="https://www.linkedin.com/in/thiagoaugustx/" target="_blank" rel="noopener noreferrer"><img src="./contacts/rodape-linkedin.svg?v=1" width="190" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://www.instagram.com/thiagoaugustx/" target="_blank" rel="noopener noreferrer"><img src="./contacts/rodape-instagram.svg?v=1" width="190" alt="Instagram"/></a>&nbsp;
+  <a href="mailto:thiagoacdesouza@gmail.com"><img src="./contacts/rodape-email.svg?v=1" width="190" alt="E-mail: thiagoacdesouza@gmail.com"/></a>&nbsp;
+  <a href="https://wa.me/5521987881819" target="_blank" rel="noopener noreferrer"><img src="./contacts/rodape-whatsapp.svg?v=1" width="190" alt="WhatsApp"/></a>
 </p>
