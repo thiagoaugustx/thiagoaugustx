@@ -10,7 +10,7 @@
   </defs>
 
   <rect width="900" height="250" rx="12"
-        fill="none"/>
+        fill="#101820" stroke="#303B46"/>
 
   <g font-family="Arial, sans-serif">
 
@@ -26,13 +26,13 @@
     </text>
 
     <text x="36" y="145"
-          fill="#E6EDF3" font-size="19">
-      Desenvolvedor Web | Engenharia de Software
+          fill="#E6EDF3" font-size="17">
+      Desenvolvedor Web | Graduando em Eng. de Software
     </text>
 
     <text x="36" y="174"
           fill="#A8B5C0" font-size="16">
-      Interfaces, aplicações web e soluções digitais.
+      Websites, aplicações e soluções para negócios.
     </text>
 
     <rect x="36" y="203"
@@ -57,11 +57,11 @@
     </text>
 
     <text x="555" y="112">
-      frontend: <tspan fill="#8DDB8C">'Html, Css, JavaScript'</tspan>,
+      frontend: <tspan fill="#8DDB8C">'HTML, CSS, JS'</tspan>,
     </text>
 
     <text x="555" y="136">
-      backend: <tspan fill="#8DDB8C">'Python'</tspan>,
+      backend: <tspan fill="#8DDB8C">'Python, Django'</tspan>,
     </text>
 
     <text x="555" y="160">
