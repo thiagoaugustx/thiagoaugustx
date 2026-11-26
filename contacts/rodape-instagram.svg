@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="48" viewBox="0 0 220 48">
+  <rect x="1" y="1" width="218" height="46" rx="23"
+        fill="#101820" stroke="#42B9D5" stroke-width="1.2"/>
+
+  <g transform="translate(18,13)" stroke="#42B9D5"
+     stroke-width="2" fill="none">
+    <rect width="22" height="22" rx="6"/>
+    <circle cx="11" cy="11" r="5.5"/>
+    <circle cx="17" cy="5" r="1.4" fill="#42B9D5" stroke="none"/>
+  </g>
+
+  <text x="132" y="24" font-family="Arial" font-size="16"
+        font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="#E6EDF3">Instagram</text>
+</svg>
