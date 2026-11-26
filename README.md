@@ -66,4 +66,12 @@ Curso Engenharia de Software na UNINTER e concluí formações profissionais em 
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/thiagoaugustx/) · [thiagoacdesouza@gmail.com](mailto:thiagoacdesouza@gmail.com) · [WhatsApp](https://wa.me/5521987881819) · [Instagram](https://www.instagram.com/thiagoaugustx/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/thiagoaugustx/">LinkedIn</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:thiagoacdesouza@gmail.com">thiagoacdesouza@gmail.com</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://wa.me/5521987881819">WhatsApp</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.instagram.com/thiagoaugustx/">Instagram</a>
+</p>
