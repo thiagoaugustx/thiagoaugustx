@@ -44,23 +44,15 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 ## Projetos em destaque
 
 <p align="center">
-  <a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/"><img src="./projects/cards/marinelli.png?v=2" width="355" alt="Projeto Eletrotécnica Marinelli: website institucional com formulários automatizados"/></a>&nbsp;
-  <a href="https://github.com/thiagoaugustx/Django-Cafeteria"><img src="./projects/cards/django-cafeteria.png?v=2" width="355" alt="Projeto Django Cafeteria: catálogo de produtos em Django"/></a>
+  <a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/"><img src="./projects/cards/marinelli.png?v=3" width="49%" alt="Eletrotécnica Marinelli: website institucional e automação de candidaturas. Clique para visitar o site."/></a>&nbsp;
+  <a href="https://github.com/thiagoaugustx/Django-Cafeteria"><img src="./projects/cards/django-cafeteria.png?v=3" width="49%" alt="Django Cafeteria: aplicação web em Python e Django. Clique para acessar o repositório."/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/thiagoaugustx/website-eletrotecnica-marinelli"><img src="./projects/repositorio.svg" width="115" alt="Código da Marinelli"/></a>
-  <a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/"><img src="./projects/visitar-site.svg" width="115" alt="Visitar site da Marinelli"/></a>
-  &emsp;&emsp;&emsp;&emsp;
-  <a href="https://github.com/thiagoaugustx/Django-Cafeteria"><img src="./projects/repositorio.svg" width="115" alt="Código da Django Cafeteria"/></a>
+  <a href="https://github.com/thiagoaugustx/construir-com-aco"><img src="./projects/cards/ferrobran.png?v=3" width="49%" alt="Construir com Aço: landing page comercial da Ferrobran. Clique para acessar o repositório."/></a>&nbsp;
+  <a href="https://github.com/thiagoaugustx/Canela-Engenharia-Eletrica"><img src="./projects/cards/canela.png?v=3" width="49%" alt="Canela Engenharia Elétrica: website institucional. Clique para acessar o repositório."/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/thiagoaugustx/construir-com-aco"><img src="./projects/cards/ferrobran.png?v=2" width="355" alt="Projeto Construir com Aço: landing page da Ferrobran"/></a>&nbsp;
-  <a href="https://github.com/thiagoaugustx/Canela-Engenharia-Eletrica"><img src="./projects/cards/canela.png?v=2" width="355" alt="Projeto Canela Engenharia Elétrica: website institucional"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/thiagoaugustx/construir-com-aco"><img src="./projects/repositorio.svg" width="115" alt="Código da Ferrobran"/></a>
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-  <a href="https://github.com/thiagoaugustx/Canela-Engenharia-Eletrica"><img src="./projects/repositorio.svg" width="115" alt="Código da Canela Engenharia Elétrica"/></a>
+  <sub>Marinelli: <a href="https://github.com/thiagoaugustx/website-eletrotecnica-marinelli">Repositório</a> · <a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/">Visitar site</a> · Clique nos demais cards para ver o código.</sub>
 </p>
 
 <!-- Formação -->
@@ -68,11 +60,11 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 ## Formação
 
 <p align="center">
-  <img src="./education/graduacao-uninter-card.svg?v=2" width="722" alt="UNINTER — Bacharelado em Engenharia de Software, 2024 até o presente, em andamento"/>
+  <img src="./education/graduacao-uninter-card.svg?v=2" width="100%" alt="UNINTER — Bacharelado em Engenharia de Software, 2024 até o presente, em andamento"/>
 </p>
 <p align="center">
-  <img src="./education/curso-senai-card.svg?v=1" width="355" alt="SENAI — Programador Front-end — Formação profissional — 2024 — Concluído"/>&nbsp;
-  <img src="./education/curso-senac-card.svg?v=1" width="355" alt="SENAC — Programação em Python — Formação profissional — 2026 — Concluído"/>
+  <img src="./education/curso-senai-card.svg?v=1" width="49%" alt="SENAI — Programador Front-end — Formação profissional — 2024 — Concluído"/>&nbsp;
+  <img src="./education/curso-senac-card.svg?v=1" width="49%" alt="SENAC — Programação em Python — Formação profissional — 2026 — Concluído"/>
 </p>
 
 <!-- CONTATOS -->
