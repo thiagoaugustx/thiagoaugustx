@@ -43,96 +43,57 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 
 ## Projetos em destaque
 
-<p align="center">
-<a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/">
-        <img
-          src="./projects/marinelli.png"
-          alt="Preview do site Eletrotécnica Marinelli"
-          width="640"
-        />
+<table align="center">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/">
+        <img src="./projects/marinelli.png" width="100%" alt="Prévia do website Eletrotécnica Marinelli"/>
       </a>
-</p>
-
-<h3>Eletrotécnica Marinelli</h3>
+      <h3>Eletrotécnica Marinelli</h3>
+      <p>Website institucional com formulários automatizados, envio de e-mails e gestão de candidaturas.</p>
+      <p><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="27" alt="HTML, CSS e JavaScript"/></p>
       <p>
-      Website institucional responsivo com formulários integrados ao Google Apps Script,
-      armazenamento de dados em planilhas e notificações automatizadas por e-mail.</p>
-      <p><img
-        src="https://skillicons.dev/icons?i=html,css,js&theme=dark"
-        height="28"
-        alt="HTML, CSS e JavaScript"
-      /></p>
-      <a href="https://github.com/thiagoaugustx/website-eletrotecnica-marinelli"><img src="./projects/repositorio.svg" width="140" height="34" alt="Repositório"/></a>
-      <a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/"><img src="./projects/visitar-site.svg" width="140" height="34" alt="Visitar site"/></a>
-
-<hr>
-
-<p align="center">
-<a href="https://github.com/thiagoaugustx/Django-Cafeteria">
-        <img
-          src="./projects/django-cafeteria.png"
-          alt="Preview do projeto Django Cafeteria"
-          width="640"
-        />
+        <a href="https://github.com/thiagoaugustx/website-eletrotecnica-marinelli"><img src="./projects/repositorio.svg" width="125" alt="Repositório"/></a>
+        <a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/"><img src="./projects/visitar-site.svg" width="125" alt="Visitar site"/></a>
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/thiagoaugustx/Django-Cafeteria">
+        <img src="./projects/django-cafeteria.png" width="100%" alt="Prévia do projeto Django Cafeteria"/>
       </a>
-</p>
-
-<h3>Django Cafeteria</h3>
+      <h3>Django Cafeteria</h3>
+      <p>Aplicação web de catálogo de produtos, desenvolvida com Python e Django.</p>
+      <p><img src="https://skillicons.dev/icons?i=python,django&theme=dark" height="27" alt="Python e Django"/></p>
       <p>
-      Aplicação web desenvolvida com Python e Django, voltada à apresentação
-      de um catálogo de produtos de uma cafeteria.</p>
-      <p><img
-        src="https://skillicons.dev/icons?i=python,django&theme=dark"
-        height="28"
-        alt="Python e Django"
-      /></p>
-      <a href="https://github.com/thiagoaugustx/Django-Cafeteria"><img src="./projects/repositorio.svg" width="140" height="34" alt="Repositório"/></a>
-
-<hr>
-
-<p align="center">
-<a href="https://github.com/thiagoaugustx/construir-com-aco">
-        <img
-          src="./projects/ferrobran.png"
-          alt="Preview da landing page Construir com Aço"
-          width="640"
-        />
+        <a href="https://github.com/thiagoaugustx/Django-Cafeteria"><img src="./projects/repositorio.svg" width="125" alt="Repositório"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/thiagoaugustx/construir-com-aco">
+        <img src="./projects/ferrobran.png" width="100%" alt="Prévia da landing page Construir com Aço"/>
       </a>
-</p>
-
-<h3>Construir com Aço</h3>
+      <h3>Construir com Aço</h3>
+      <p>Landing page para apresentação do programa de parcerias da Ferrobran Estruturas Metálicas.</p>
+      <p><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="27" alt="HTML, CSS e JavaScript"/></p>
       <p>
-      Landing page desenvolvida para apresentação do programa de parcerias comerciais
-      da Ferrobran Estruturas Metálicas.</p>
-      <p><img
-        src="https://skillicons.dev/icons?i=html,css,js&theme=dark"
-        height="28"
-        alt="HTML, CSS e JavaScript"
-      /></p>
-      <a href="https://github.com/thiagoaugustx/construir-com-aco"><img src="./projects/repositorio.svg" width="140" height="34" alt="Repositório"/></a>
-
-<hr>
-
-<p align="center">
-<a href="https://github.com/thiagoaugustx/Canela-Engenharia-Eletrica">
-        <img
-          src="./projects/canela.png"
-          alt="Preview do site Canela Engenharia Elétrica"
-          width="640"
-        />
+        <a href="https://github.com/thiagoaugustx/construir-com-aco"><img src="./projects/repositorio.svg" width="125" alt="Repositório"/></a>
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/thiagoaugustx/Canela-Engenharia-Eletrica">
+        <img src="./projects/canela.png" width="100%" alt="Prévia do website Canela Engenharia Elétrica"/>
       </a>
-</p>
-
-<h3>Canela Engenharia Elétrica</h3>
+      <h3>Canela Engenharia Elétrica</h3>
+      <p>Website institucional para apresentação de serviços elétricos e geração de contatos comerciais.</p>
+      <p><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="27" alt="HTML, CSS e JavaScript"/></p>
       <p>
-      Website institucional voltado à apresentação de serviços de engenharia elétrica
-      e captação de potenciais clientes.</p>
-      <p><img
-        src="https://skillicons.dev/icons?i=html,css,js&theme=dark"
-        height="28"
-        alt="HTML, CSS e JavaScript"
-      /></p>
-      <a href="https://github.com/thiagoaugustx/Canela-Engenharia-Eletrica"><img src="./projects/repositorio.svg" width="140" height="34" alt="Repositório"/></a>
+        <a href="https://github.com/thiagoaugustx/Canela-Engenharia-Eletrica"><img src="./projects/repositorio.svg" width="125" alt="Repositório"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!-- Formação -->
 
