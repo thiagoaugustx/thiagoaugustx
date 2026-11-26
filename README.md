@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thiagoaugustx/" target="_blank" rel="noopener noreferrer"><img src="./contacts/linkedin.svg?v=2" width="180" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:thiagoacdesouza@gmail.com"><img src="./contacts/gmail.svg?v=6" width="180" alt="E-mail: thiagoacdesouza@gmail.com"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:thiagoacdesouza@gmail.com"><img src="./contacts/gmail.svg?v=7" width="240" alt="E-mail: thiagoacdesouza@gmail.com"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/5521987881819" target="_blank" rel="noopener noreferrer"><img src="./contacts/whatsapp.svg?v=2" width="180" alt="WhatsApp"></a>
 </p>
 
@@ -68,4 +68,4 @@ Curso Engenharia de Software na UNINTER e concluí formações profissionais em 
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/thiagoaugustx/) · [E-mail](mailto:thiagoacdesouza@gmail.com) · [WhatsApp](https://wa.me/5521987881819) · [Instagram](https://www.instagram.com/thiagoaugustx/)
+[LinkedIn](https://www.linkedin.com/in/thiagoaugustx/) · [thiagoacdesouza@gmail.com](mailto:thiagoacdesouza@gmail.com) · [WhatsApp](https://wa.me/5521987881819) · [Instagram](https://www.instagram.com/thiagoaugustx/)
