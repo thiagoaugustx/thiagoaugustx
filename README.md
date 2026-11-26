@@ -33,22 +33,11 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 
 ## Tech Stack
 
-<div align="center">
-  <p>
-    <strong>Linguagens e frameworks</strong>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <strong>Ferramentas e plataformas</strong>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <strong>Estudando</strong>
-  </p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,django&theme=dark" height="42" alt="HTML, CSS, JavaScript, Python e Django" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,wordpress&theme=dark" height="42" alt="Git, GitHub, VS Code, Figma e WordPress" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=react&theme=dark" height="42" alt="React" />
-  </p>
-</div>
+<p align="center">
+  <img src="./stack/linguagens.svg?v=1" width="284" alt="Linguagens e frameworks: HTML, CSS, JavaScript, Python e Django" />&nbsp;&nbsp;
+  <img src="./stack/ferramentas.svg?v=1" width="284" alt="Ferramentas e plataformas: Git, GitHub, VS Code, Figma e WordPress" />&nbsp;&nbsp;
+  <img src="./stack/estudando.svg?v=1" width="132" alt="Estudando: React" />
+</p>
 
 <!-- PROJETOS EM DESTAQUE -->
 
