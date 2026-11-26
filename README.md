@@ -2,7 +2,7 @@
 
 <div align="center">
   <img
-    src="./assets/banner.svg"
+    src="./assets/banner.svg?v=2"
     alt="Thiago Augusto - Desenvolvedor Web"
     width="100%"
   />
