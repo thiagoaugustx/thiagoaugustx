@@ -63,16 +63,16 @@
  </g>
     </g>
   </g></g>
-  <text x="180" y="118" text-anchor="middle" fill="#F0F6FC" font-family="Arial,sans-serif" font-size="19" font-weight="700">Programação em Python</text>
-  <text x="180" y="144" text-anchor="middle" fill="#BBC6D0" font-family="Arial,sans-serif" font-size="13">SENAC</text>
+  <text x="180" y="118" text-anchor="middle" fill="#E6EDF3" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">Programação em Python</text>
+  <text x="180" y="144" text-anchor="middle" fill="#A8B5C0" font-family="Arial, Helvetica, sans-serif" font-size="13">SENAC</text>
   <rect x="65" y="170" width="230" height="30" rx="15" fill="#101820" stroke="#35C9A5" stroke-width="1"/>
   <circle cx="82" cy="185" r="6" fill="none" stroke="#35C9A5" stroke-width="1.5"/>
   <path d="M79 185 h6 M82 182 v6" stroke="#35C9A5" stroke-width="1.2"/>
-  <text x="195" y="190" text-anchor="middle" fill="#E6EDF3" font-family="Arial, sans-serif" font-size="13" font-weight="600">Formação profissional</text>
-  <rect x="83" y="210" width="82" height="30" rx="15" fill="#101820" stroke="#219BD8" stroke-width="1"/>
-  <text x="124" y="230" text-anchor="middle" fill="#E6EDF3" font-family="Arial, sans-serif" font-size="13">2026</text>
-  <rect x="174" y="210" width="104" height="30" rx="15" fill="#101820" stroke="#2EC987" stroke-width="1"/>
-  <circle cx="190" cy="225" r="6" fill="#2EC987"/>
+  <text x="195" y="190" text-anchor="middle" fill="#E6EDF3" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600">Formação profissional</text>
+  <rect x="83" y="210" width="82" height="30" rx="15" fill="#101820" stroke="#2185E9" stroke-width="1"/>
+  <text x="124" y="230" text-anchor="middle" fill="#E6EDF3" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600">2026</text>
+  <rect x="174" y="210" width="104" height="30" rx="15" fill="#101820" stroke="#22C55E" stroke-width="1"/>
+  <circle cx="190" cy="225" r="6" fill="#22C55E"/>
   <path d="m187 225 2 2 4-4" fill="none" stroke="#071d2d" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="234" y="230" text-anchor="middle" fill="#E6EDF3" font-family="Arial,sans-serif" font-size="13">Concluído</text>
+  <text x="234" y="230" text-anchor="middle" fill="#E6EDF3" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600">Concluído</text>
 </svg>
