@@ -30,7 +30,7 @@ jobs:
           out=Path('projects/cards')
           out.mkdir(parents=True,exist_ok=True)
           for key,title,desc,stack in P:
-              card=Image.new('RGB',(720,560),BG)
+              card=Image.new('RGBA',(720,560),(0,0,0,0))
               draw=ImageDraw.Draw(card)
               draw.rounded_rectangle((0,0,719,559),radius=24,fill=BG)
               im=Image.open(f'projects/{key}.png').convert('RGB')
