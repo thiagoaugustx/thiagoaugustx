@@ -27,10 +27,11 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thiagoaugustx/"><img src="./contacts/linkedin.svg?v=2" width="180" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=thiagoacdesouza@gmail.com"
-   target="_blank"
-   rel="noopener noreferrer">
-  <img src="./contacts/gmail.svg?v=2" width="180" alt="Enviar e-mail pelo Gmail">
+  <a href="mailto:thiagoacdesouza@gmail.com">
+  <img src="./contacts/gmail.svg?v=3"
+       width="180"
+       alt="thiagoacdesouza@gmail.com">
+</a>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/5521987881819"><img src="./contacts/whatsapp.svg?v=2" width="180" alt="WhatsApp"></a>
 </p>
