@@ -20,6 +20,21 @@ Atuo no desenvolvimento de websites institucionais, landing pages e aplicações
 Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Python e Django, direcionando minha formação para o desenvolvimento Full Stack.
 
 
+<!-- CONTATO RAPIDO -->
+## Contato Rapido
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/thiagoaugustx/">
+    <img src="./contacts/linkedin.svg?v=2" width="120" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:thiagoacdesouza@gmail.com">
+    <img src="./contacts/gmail.svg?v=2" width="120" alt="E-mail"/>
+  </a>
+  <a href="https://wa.me/5521987881819">
+    <img src="./contacts/whatsapp.svg?v=2" width="120" alt="WhatsApp"/>
+  </a>
+</p>
+
 <!-- TECH STACK -->
 
 ## Tech Stack
@@ -175,26 +190,6 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 <img src="./education/concluido.svg" height="32" alt="Concluído"/>
 </p>
 
-<!-- GITHUB STATS -->
-
-## GitHub Stats
-
-<p align="center">
-  <img
-    width="450"
-    src="https://github-readme-stats.vercel.app/api?username=thiagoaugustx&show_icons=true&hide_border=true&hide_rank=true&hide=issues&theme=transparent&title_color=C9D1D9&text_color=C9D1D9&icon_color=58A6FF&custom_title=GitHub%20Stats"
-    alt="Estatísticas do GitHub"
-  />
-</p>
-<p align="center">
-  <img
-    width="450"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoaugustx&layout=compact&langs_count=5&hide_border=true&theme=transparent&title_color=C9D1D9&text_color=C9D1D9&custom_title=Top%205%20Linguagens"
-    alt="Cinco linguagens mais utilizadas"
-  />
-</p>
-
-
 <!-- CONTATOS -->
 
 ## Contato
@@ -202,6 +197,6 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 <p align="center">
   <a href="https://www.linkedin.com/in/thiagoaugustx/"><img src="./contacts/linkedin.svg?v=2" width="140" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/thiagoaugustx/"><img src="./contacts/instagram.svg?v=2" width="140" alt="Instagram"/></a>
-  <a href="mailto:thiagoacdesouza@gmai.com"><img src="./contacts/gmail.svg?v=2" width="140" alt="Gmail"/></a>
+  <a href="mailto:thiagoacdesouza@gmail.com"><img src="./contacts/gmail.svg?v=2" width="140" alt="Gmail"/></a>
   <a href="https://wa.me/5521987881819"><img src="./contacts/whatsapp.svg?v=2" width="140" alt="WhatsApp"/></a>
 </p>
