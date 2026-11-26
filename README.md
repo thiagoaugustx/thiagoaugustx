@@ -44,8 +44,8 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 ## Projetos em destaque
 
 <p align="center">
-  <a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/"><img src="./projects/cards/marinelli.png" width="355" alt="Projeto Eletrotécnica Marinelli: website institucional com formulários automatizados"/></a>&nbsp;
-  <a href="https://github.com/thiagoaugustx/Django-Cafeteria"><img src="./projects/cards/django-cafeteria.png" width="355" alt="Projeto Django Cafeteria: catálogo de produtos em Django"/></a>
+  <a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/"><img src="./projects/cards/marinelli.png?v=2" width="355" alt="Projeto Eletrotécnica Marinelli: website institucional com formulários automatizados"/></a>&nbsp;
+  <a href="https://github.com/thiagoaugustx/Django-Cafeteria"><img src="./projects/cards/django-cafeteria.png?v=2" width="355" alt="Projeto Django Cafeteria: catálogo de produtos em Django"/></a>
 </p>
 <p align="center">
   <a href="https://github.com/thiagoaugustx/website-eletrotecnica-marinelli"><img src="./projects/repositorio.svg" width="115" alt="Código da Marinelli"/></a>
@@ -54,8 +54,8 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
   <a href="https://github.com/thiagoaugustx/Django-Cafeteria"><img src="./projects/repositorio.svg" width="115" alt="Código da Django Cafeteria"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/thiagoaugustx/construir-com-aco"><img src="./projects/cards/ferrobran.png" width="355" alt="Projeto Construir com Aço: landing page da Ferrobran"/></a>&nbsp;
-  <a href="https://github.com/thiagoaugustx/Canela-Engenharia-Eletrica"><img src="./projects/cards/canela.png" width="355" alt="Projeto Canela Engenharia Elétrica: website institucional"/></a>
+  <a href="https://github.com/thiagoaugustx/construir-com-aco"><img src="./projects/cards/ferrobran.png?v=2" width="355" alt="Projeto Construir com Aço: landing page da Ferrobran"/></a>&nbsp;
+  <a href="https://github.com/thiagoaugustx/Canela-Engenharia-Eletrica"><img src="./projects/cards/canela.png?v=2" width="355" alt="Projeto Canela Engenharia Elétrica: website institucional"/></a>
 </p>
 <p align="center">
   <a href="https://github.com/thiagoaugustx/construir-com-aco"><img src="./projects/repositorio.svg" width="115" alt="Código da Ferrobran"/></a>
@@ -80,7 +80,7 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 ## Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thiagoaugustx/" target="_blank" rel="noopener noreferrer"><img src="./contacts/rodape-linkedin.svg?v=1" width="190" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/thiagoaugustx/" target="_blank" rel="noopener noreferrer"><img src="./contacts/rodape-linkedin.svg?v=2" width="190" alt="LinkedIn"/></a>&nbsp;
   <a href="https://www.instagram.com/thiagoaugustx/" target="_blank" rel="noopener noreferrer"><img src="./contacts/rodape-instagram.svg?v=1" width="190" alt="Instagram"/></a>&nbsp;
   <a href="mailto:thiagoacdesouza@gmail.com"><img src="./contacts/rodape-email.svg?v=1" width="190" alt="E-mail: thiagoacdesouza@gmail.com"/></a>&nbsp;
   <a href="https://wa.me/5521987881819" target="_blank" rel="noopener noreferrer"><img src="./contacts/rodape-whatsapp.svg?v=1" width="190" alt="WhatsApp"/></a>
