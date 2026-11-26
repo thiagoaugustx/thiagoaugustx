@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - ".github/workflows/build-readme-cards.yml"
+      - "projects/*.png"
 permissions:
   contents: write
 jobs:
@@ -50,42 +51,15 @@ jobs:
                   x+=width+11
               card.save(out/(key+'.png'),optimize=True)
           
-          readme=Path('README.md')
-          s=readme.read_text(encoding='utf-8')
-          a=s.index('<!-- PROJETOS EM DESTAQUE -->')
-          b=s.index('<!-- Formação -->',a)
-          novo='''<!-- PROJETOS EM DESTAQUE -->
-          
-          ## Projetos em destaque
-          
-          <p align="center">
-            <a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/"><img src="./projects/cards/marinelli.png" width="355" alt="Projeto Eletrotécnica Marinelli: website institucional com formulários automatizados"/></a>&nbsp;
-            <a href="https://github.com/thiagoaugustx/Django-Cafeteria"><img src="./projects/cards/django-cafeteria.png" width="355" alt="Projeto Django Cafeteria: catálogo de produtos em Django"/></a>
-          </p>
-          <p align="center">
-            <a href="https://github.com/thiagoaugustx/website-eletrotecnica-marinelli"><img src="./projects/repositorio.svg" width="115" alt="Código da Marinelli"/></a>
-            <a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/"><img src="./projects/visitar-site.svg" width="115" alt="Visitar site da Marinelli"/></a>
-            &emsp;&emsp;&emsp;&emsp;
-            <a href="https://github.com/thiagoaugustx/Django-Cafeteria"><img src="./projects/repositorio.svg" width="115" alt="Código da Django Cafeteria"/></a>
-          </p>
-          <p align="center">
-            <a href="https://github.com/thiagoaugustx/construir-com-aco"><img src="./projects/cards/ferrobran.png" width="355" alt="Projeto Construir com Aço: landing page da Ferrobran"/></a>&nbsp;
-            <a href="https://github.com/thiagoaugustx/Canela-Engenharia-Eletrica"><img src="./projects/cards/canela.png" width="355" alt="Projeto Canela Engenharia Elétrica: website institucional"/></a>
-          </p>
-          <p align="center">
-            <a href="https://github.com/thiagoaugustx/construir-com-aco"><img src="./projects/repositorio.svg" width="115" alt="Código da Ferrobran"/></a>
-            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-            <a href="https://github.com/thiagoaugustx/Canela-Engenharia-Eletrica"><img src="./projects/repositorio.svg" width="115" alt="Código da Canela Engenharia Elétrica"/></a>
-          </p>
-          
-          '''
-          readme.write_text(s[:a]+novo+s[b:],encoding='utf-8')
-          
           PY
       - name: Publicar cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md projects/cards/
-          git commit -m "Padroniza Projetos em destaque com cards sem bordas"
-          git push
+          git add projects/cards/
+          if git diff --cached --quiet; then
+            echo "Cards já atualizados."
+          else
+            git commit -m "Atualiza imagens dos cards do README"
+            git push
+          fi
