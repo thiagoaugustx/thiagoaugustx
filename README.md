@@ -42,9 +42,7 @@ Curso Engenharia de Software na UNINTER e concluí formações profissionais em 
 ## Tecnologias
 
 <p align="center">
-  <img src="./stack/linguagens.svg?v=2" width="284" alt="Linguagens e frameworks: HTML, CSS, JavaScript, Python e Django" />&nbsp;&nbsp;
-  <img src="./stack/ferramentas.svg?v=2" width="284" alt="Ferramentas e plataformas: Git, GitHub, VS Code, Figma e WordPress" />&nbsp;&nbsp;
-  <img src="./stack/estudando.svg?v=3" width="132" alt="Estudando: React" />
+  <img src="./stack/tecnologias.svg?v=1" width="100%" alt="Linguagens e frameworks: HTML, CSS, JavaScript, Python e Django. Ferramentas e plataformas: Git, GitHub, VS Code, Figma e WordPress. Estudando: React." />
 </p>
 
 - **Front-end:** HTML, CSS e JavaScript.
