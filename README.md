@@ -99,35 +99,24 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 
 ## Formação
 
-<p align="center"><img src="./education/uninter.svg" width="140" height="100" alt="UNINTER"/></p>
+<h3 align="center">Graduação</h3>
+<p align="center">
+  <img src="./education/uninter.svg" width="160" height="110" alt="UNINTER"/>
+</p>
 <h3 align="center">Engenharia de Software</h3>
 <p align="center">Centro Universitário Internacional — UNINTER</p>
-<p align="center"><img src="./education/bacharelado.svg" height="32" alt="Bacharelado"/></p>
 <p align="center">
-<img src="./education/2024-atual.svg" height="32" alt="2024 – Atual"/>
-<img src="./education/em-andamento.svg" height="32" alt="Em andamento"/>
+  <img src="./education/bacharelado.svg" height="32" alt="Bacharelado"/>
+</p>
+<p align="center">
+  <img src="./education/2024-atual.svg" height="32" alt="2024 – Atual"/>
+  <img src="./education/em-andamento.svg" height="32" alt="Em andamento"/>
 </p>
 
-<hr>
-
-<p align="center"><img src="./education/senai.svg" width="140" height="100" alt="SENAI"/></p>
-<h3 align="center">Programador Front-end</h3>
-<p align="center">Firjan SENAI — Niterói</p>
-<p align="center"><img src="./education/formacao-profissional.svg" height="32" alt="Formação profissional"/></p>
+<h3 align="center">Cursos complementares</h3>
 <p align="center">
-<img src="./education/2024.svg" height="32" alt="2024"/>
-<img src="./education/concluido.svg" height="32" alt="Concluído"/>
-</p>
-
-<hr>
-
-<p align="center"><img src="./education/senac.svg" width="140" height="100" alt="SENAC"/></p>
-<h3 align="center">Programação em Python</h3>
-<p align="center">SENAC</p>
-<p align="center"><img src="./education/formacao-profissional.svg" height="32" alt="Formação profissional"/></p>
-<p align="center">
-<img src="./education/2026.svg" height="32" alt="2026"/>
-<img src="./education/concluido.svg" height="32" alt="Concluído"/>
+  <img src="./education/curso-senai-card.svg?v=1" width="355" alt="SENAI — Programador Front-end — Formação profissional — 2024 — Concluído"/>&nbsp;&nbsp;
+  <img src="./education/curso-senac-card.svg?v=1" width="355" alt="SENAC — Programação em Python — Formação profissional — 2026 — Concluído"/>
 </p>
 
 <!-- CONTATOS -->
