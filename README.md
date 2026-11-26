@@ -99,14 +99,11 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 
 ## Formação
 
-<h3 align="center">Graduação</h3>
 <p align="center">
   <img src="./education/graduacao-uninter-card.svg?v=2" width="722" alt="UNINTER — Bacharelado em Engenharia de Software, 2024 até o presente, em andamento"/>
 </p>
-
-<h3 align="center">Cursos complementares</h3>
 <p align="center">
-  <img src="./education/curso-senai-card.svg?v=1" width="355" alt="SENAI — Programador Front-end — Formação profissional — 2024 — Concluído"/>&nbsp;&nbsp;
+  <img src="./education/curso-senai-card.svg?v=1" width="355" alt="SENAI — Programador Front-end — Formação profissional — 2024 — Concluído"/>&nbsp;
   <img src="./education/curso-senac-card.svg?v=1" width="355" alt="SENAC — Programação em Python — Formação profissional — 2026 — Concluído"/>
 </p>
 
