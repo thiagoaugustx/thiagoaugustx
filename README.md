@@ -33,26 +33,40 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 
 ## Tech Stack
 
-<h3>Linguagens e frameworks</h3>
-<p><img
-        src="https://skillicons.dev/icons?i=html,css,js,python,django&theme=dark"
-        height="42"
-        alt="HTML, CSS, JavaScript, Python e Django"
-      /></p>
-
-<h3>Ferramentas e plataformas</h3>
-<p><img
-        src="https://skillicons.dev/icons?i=git,github,vscode,figma,wordpress&theme=dark"
-        height="42"
-        alt="Git, GitHub, VS Code, Figma e WordPress"
-      /></p>
-
-<h3>Estudando</h3>
-<p><img
-        src="https://skillicons.dev/icons?i=react&theme=dark"
-        height="42"
-        alt="React"
-      /></p>
+<table>
+  <tr>
+    <td valign="top" width="40%">
+      <strong>Linguagens e frameworks</strong>
+      <p>
+        <img
+          src="https://skillicons.dev/icons?i=html,css,js,python,django&theme=dark"
+          height="42"
+          alt="HTML, CSS, JavaScript, Python e Django"
+        />
+      </p>
+    </td>
+    <td valign="top" width="40%">
+      <strong>Ferramentas e plataformas</strong>
+      <p>
+        <img
+          src="https://skillicons.dev/icons?i=git,github,vscode,figma,wordpress&theme=dark"
+          height="42"
+          alt="Git, GitHub, VS Code, Figma e WordPress"
+        />
+      </p>
+    </td>
+    <td valign="top" width="20%">
+      <strong>Estudando</strong>
+      <p>
+        <img
+          src="https://skillicons.dev/icons?i=react&theme=dark"
+          height="42"
+          alt="React"
+        />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!-- PROJETOS EM DESTAQUE -->
 
