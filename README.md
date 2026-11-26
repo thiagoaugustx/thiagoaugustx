@@ -26,8 +26,55 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thiagoaugustx/" target="_blank" rel="noopener noreferrer"><img src="./contacts/linkedin.svg?v=2" width="180" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:thiagoacdesouza@gmail.com"><img src="./contacts/gmail.svg?v=3" width="180" alt="thiagoacdesouza@gmail.com"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="220"
+     height="48"
+     viewBox="0 0 220 48">
+
+  <!-- Fundo e borda -->
+  <rect
+    x="1"
+    y="1"
+    width="218"
+    height="46"
+    rx="23"
+    fill="#101820"
+    stroke="#35C9A5"
+    stroke-width="1.2"
+  />
+
+  <!-- Ícone de e-mail -->
+  <g
+    stroke="#35C9A5"
+    stroke-width="2"
+    fill="none"
+    stroke-linejoin="round">
+
+    <rect x="18" y="15"
+          width="24" height="18" rx="3"/>
+
+    <path d="M18 17 L30 26 L42 17"/>
+  </g>
+
+  <!-- Endereço de e-mail -->
+  <text
+    x="133"
+    y="24"
+    font-family="Arial, sans-serif"
+    font-size="11"
+    font-weight="600"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    fill="#E6EDF3">
+    thiagoacdesouza@gmail.com
+  </text>
+
+</svg>
+&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/5521987881819" target="_blank" rel="noopener noreferrer"><img src="./contacts/whatsapp.svg?v=2" width="180" alt="WhatsApp"></a>
+  
 </p>
 
 
