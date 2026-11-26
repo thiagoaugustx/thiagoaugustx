@@ -1,6 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="722" height="245" viewBox="0 0 722 245" role="img" aria-label="UNINTER — Engenharia de Software — Bacharelado — 2024 até o presente — Em andamento">
   <title>Graduação — Engenharia de Software na UNINTER</title>
   <rect width="722" height="245" rx="13" fill="#101820"/>
+  <defs><clipPath id="uninter-logo-clip"><rect x="36" y="28" width="232" height="190"/></clipPath></defs>
+  <g clip-path="url(#uninter-logo-clip)">
   <g transform="translate(62 48) scale(0.36) translate(-81.9646 -158.5462)">
     <g
      id="layer1"
@@ -165,6 +167,7 @@
          style="fill:#f9ae0c;fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="path38264-7" />
     </g>
+  </g>
   </g>
   </g>
   <line x1="277" y1="43" x2="277" y2="201" stroke="#2D3C49" stroke-width="1"/>
