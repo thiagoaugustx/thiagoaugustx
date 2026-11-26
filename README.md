@@ -43,16 +43,30 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 
 ## Projetos em destaque
 
+<!-- Linha 1: Marinelli e Django Cafeteria -->
 <p align="center">
-  <a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/"><img src="./projects/cards/marinelli.png?v=3" width="49%" alt="Eletrotécnica Marinelli: website institucional e automação de candidaturas. Clique para visitar o site."/></a>&nbsp;
-  <a href="https://github.com/thiagoaugustx/Django-Cafeteria"><img src="./projects/cards/django-cafeteria.png?v=3" width="49%" alt="Django Cafeteria: aplicação web em Python e Django. Clique para acessar o repositório."/></a>
+  <a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/" title="Visitar site da Eletrotécnica Marinelli"><img src="./projects/cards/marinelli.png?v=3" width="49%" alt="Eletrotécnica Marinelli: website institucional e automação de candidaturas"/></a>&nbsp;
+  <a href="https://github.com/thiagoaugustx/Django-Cafeteria" title="Abrir repositório Django Cafeteria"><img src="./projects/cards/django-cafeteria.png?v=3" width="49%" alt="Django Cafeteria: aplicação web em Python e Django"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/thiagoaugustx/construir-com-aco"><img src="./projects/cards/ferrobran.png?v=3" width="49%" alt="Construir com Aço: landing page comercial da Ferrobran. Clique para acessar o repositório."/></a>&nbsp;
-  <a href="https://github.com/thiagoaugustx/Canela-Engenharia-Eletrica"><img src="./projects/cards/canela.png?v=3" width="49%" alt="Canela Engenharia Elétrica: website institucional. Clique para acessar o repositório."/></a>
+  <a href="https://github.com/thiagoaugustx/website-eletrotecnica-marinelli" title="Repositório Marinelli"><img src="./projects/repositorio.svg" width="19%" alt="Repositório Marinelli"/></a>
+  <a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/" title="Visitar GitHub Pages da Marinelli"><img src="./projects/visitar-site.svg" width="19%" alt="Visitar site Marinelli"/></a>
+  <img src="./projects/espacador.svg" width="22%" height="1" alt=""/>
+  <a href="https://github.com/thiagoaugustx/Django-Cafeteria" title="Repositório Django Cafeteria"><img src="./projects/repositorio.svg" width="19%" alt="Repositório Django Cafeteria"/></a>
+  <img src="./projects/espacador.svg" width="8%" height="1" alt=""/>
+</p>
+
+<!-- Linha 2: Construir com Aço e Canela -->
+<p align="center">
+  <a href="https://thiagoaugustx.github.io/construir-com-aco/" title="Visitar Construir com Aço"><img src="./projects/cards/ferrobran.png?v=3" width="49%" alt="Construir com Aço: landing page comercial da Ferrobran"/></a>&nbsp;
+  <a href="https://thiagoaugustx.github.io/Canela-Engenharia-Eletrica/site-canela/index.html" title="Visitar Canela Engenharia Elétrica"><img src="./projects/cards/canela.png?v=3" width="49%" alt="Canela Engenharia Elétrica: website institucional"/></a>
 </p>
 <p align="center">
-  <sub>Marinelli: <a href="https://github.com/thiagoaugustx/website-eletrotecnica-marinelli">Repositório</a> · <a href="https://thiagoaugustx.github.io/website-eletrotecnica-marinelli/">Visitar site</a> · Clique nos demais cards para ver o código.</sub>
+  <a href="https://github.com/thiagoaugustx/construir-com-aco" title="Repositório Construir com Aço"><img src="./projects/repositorio.svg" width="19%" alt="Repositório Construir com Aço"/></a>
+  <a href="https://thiagoaugustx.github.io/construir-com-aco/" title="Visitar GitHub Pages Construir com Aço"><img src="./projects/visitar-site.svg" width="19%" alt="Visitar site Construir com Aço"/></a>
+  <img src="./projects/espacador.svg" width="10%" height="1" alt=""/>
+  <a href="https://github.com/thiagoaugustx/Canela-Engenharia-Eletrica" title="Repositório Canela Engenharia Elétrica"><img src="./projects/repositorio.svg" width="19%" alt="Repositório Canela Engenharia Elétrica"/></a>
+  <a href="https://thiagoaugustx.github.io/Canela-Engenharia-Eletrica/site-canela/index.html" title="Visitar GitHub Pages Canela"><img src="./projects/visitar-site.svg" width="19%" alt="Visitar site Canela Engenharia Elétrica"/></a>
 </p>
 
 <!-- Formação -->
