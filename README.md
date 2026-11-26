@@ -112,8 +112,8 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 ## Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thiagoaugustx/"><img src="./contacts/linkedin.svg?v=2" width="140" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/thiagoaugustx/"><img src="./contacts/instagram.svg?v=2" width="140" alt="Instagram"/></a>
-  <a href="mailto:thiagoacdesouza@gmail.com"><img src="./contacts/gmail.svg?v=2" width="140" alt="Gmail"/></a>
-  <a href="https://wa.me/5521987881819"><img src="./contacts/whatsapp.svg?v=2" width="140" alt="WhatsApp"/></a>
+  <a href="https://www.linkedin.com/in/thiagoaugustx/" target="_blank" rel="noopener noreferrer"><img src="./contacts/linkedin.svg?v=2" width="150" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://www.instagram.com/thiagoaugustx/" target="_blank" rel="noopener noreferrer"><img src="./contacts/instagram.svg?v=2" width="150" alt="Instagram"/></a>&nbsp;
+  <a href="mailto:thiagoacdesouza@gmail.com"><img src="./contacts/gmail.svg?v=6" width="220" alt="E-mail: thiagoacdesouza@gmail.com"/></a>&nbsp;
+  <a href="https://wa.me/5521987881819" target="_blank" rel="noopener noreferrer"><img src="./contacts/whatsapp.svg?v=2" width="150" alt="WhatsApp"/></a>
 </p>
