@@ -19,6 +19,7 @@ Atuo no desenvolvimento de websites institucionais, landing pages e aplicações
 
 Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Python e Django, direcionando minha formação para o desenvolvimento Full Stack.
 
+
 <!-- CONTATO RAPIDO -->
 ## Contato Rápido
 
