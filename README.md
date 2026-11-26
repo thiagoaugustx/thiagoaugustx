@@ -101,16 +101,7 @@ Tenho experiência com projetos comerciais e utilizo HTML, CSS, JavaScript, Pyth
 
 <h3 align="center">Graduação</h3>
 <p align="center">
-  <img src="./education/uninter.svg" width="160" height="110" alt="UNINTER"/>
-</p>
-<h3 align="center">Engenharia de Software</h3>
-<p align="center">Centro Universitário Internacional — UNINTER</p>
-<p align="center">
-  <img src="./education/bacharelado.svg" height="32" alt="Bacharelado"/>
-</p>
-<p align="center">
-  <img src="./education/2024-atual.svg" height="32" alt="2024 – Atual"/>
-  <img src="./education/em-andamento.svg" height="32" alt="Em andamento"/>
+  <img src="./education/graduacao-uninter-card.svg?v=1" width="722" alt="UNINTER — Bacharelado em Engenharia de Software, 2024 até o presente, em andamento"/>
 </p>
 
 <h3 align="center">Cursos complementares</h3>
